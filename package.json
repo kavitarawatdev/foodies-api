@@ -8,17 +8,18 @@
     "dev": "nodemon app.js"
   },
   "keywords": [
-      "express",
-      "nodejs",
-      "mongodb",
-      "mongoose",
-      "rest-api",
-      "foodies-api"
+    "express",
+    "nodejs",
+    "mongodb",
+    "mongoose",
+    "rest-api",
+    "foodies-api"
   ],
   "author": "Kavita Rawat",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "mongoose": "^8.18.0"
