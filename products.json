@@ -1,0 +1,787 @@
+[
+  {
+    "name": "Paneer Butter Masala",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 250
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.9,
+    "reviews": 320,
+    "category": "main_course",
+    "description": "Soft cubes of paneer simmered in a creamy, rich tomato and cashew gravy. A classic, velvety Indian curry.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756060122/4d595fec-611f-4399-8cba-c764d2d8cbbe.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756059916/fb99e732-0bd4-470c-9e0b-50e56bb75c18.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756059934/40ccc51f-d9f5-45b7-8224-ffcdc30ab0a6.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756059938/b67ec41b-5bd8-4e10-9671-fa5e2f91116d.png"
+    ]
+  },
+  {
+    "name": "Masala Dosa",
+    "price": [
+      {
+        "size": "Single",
+        "amount": 90
+      },
+      {
+        "size": "Double",
+        "amount": 180
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.8,
+    "reviews": 450,
+    "category": "snacks",
+    "description": "A thin, crispy golden crepe made from rice and lentil batter, filled with a spiced potato stuffing. Served with sambar and coconut chutney.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061331/ff6560bb-861b-44c5-80dc-a264d2150555.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061164/35026d34-2fc9-4f79-9ef4-ae209bfcfbab.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061401/f0d90ac5-8c12-421e-a8ba-a9a30e5327b7.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061348/1f6fca43-1527-4ee5-92a2-97541fe35105.png"
+    ]
+  },
+  {
+    "name": "Veg Momos",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 120
+      },
+      {
+        "size": "Full",
+        "amount": 240
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.7,
+    "reviews": 510,
+    "category": "snacks",
+    "description": "Steamed dumplings filled with a finely minced mixture of cabbage, carrots, onions, and spring onions. Served with a fiery red chili sauce.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061771/2f361c53-d881-4710-8cd8-697a6898eba0.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061779/a439fb09-0501-4333-ba0b-e0e51cce0379.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061755/4778f8c5-d4a7-4cd1-8a92-9532d92c05b7.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061866/3d98c4e2-2e2c-464a-98bd-87cb4284a1d0.png"
+    ]
+  },
+  {
+    "name": "Chole Bhature",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 180
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.9,
+    "reviews": 600,
+    "category": "street_food",
+    "description": "A popular North Indian dish consisting of spicy chickpea curry (chole) and deep-fried leavened bread (bhature). A perfect street food meal.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756062194/77bb7b9d-55e0-402f-b00a-7c1695ac53e7.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756062177/6194c2fa-02e6-41da-befa-437ccb1746be.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756062143/16dac394-d7e1-4467-a945-05db08872f70.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756062200/2d1147e8-cdda-4769-b9a1-eda6097a7dc3.png"
+    ]
+  },
+  {
+    "name": "Dal Makhani",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 220
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.8,
+    "reviews": 290,
+    "category": "main_course",
+    "description": "A slow-cooked medley of black lentils and kidney beans, finished with butter and cream. A rich, buttery Indian delicacy.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098396/fefca099-cf43-4be9-bafe-745efc72ed71.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096103/980e8798-fd0b-4d5d-bc29-66f6ec29b94f.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098389/79ea87d7-1a23-4563-98ea-41d2b186f443.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098896/9550b7b0-b2e4-4247-9336-a5280fbdd7f2.png"
+    ]
+  },
+  {
+    "name": "Veg Burger",
+    "price": [
+      {
+        "size": "M",
+        "amount": 150
+      },
+      {
+        "size": "L",
+        "amount": 200
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.6,
+    "reviews": 380,
+    "category": "snacks",
+    "description": "A crispy and flavorful mixed vegetable patty served on a toasted bun with lettuce, tomato, cheese, and a special house sauce. Served with fries.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099072/68ff8af0-e334-402c-aa68-cdbbc1beed12.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099027/053e3906-5deb-4d51-bf5e-861e19af6408.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096218/cabe171f-0e97-43c6-862e-d83207215a63.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099149/773e8512-6e72-4029-9941-0d77b771fdf4.png"
+    ]
+  },
+  {
+    "name": "Samosa Chaat",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 100
+      },
+      {
+        "size": "Full",
+        "amount": 180
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.9,
+    "reviews": 550,
+    "category": "street_food",
+    "description": "A popular street food dish with crushed samosas topped with spicy chickpea curry, sweet and tangy chutneys, yogurt, and crispy sev.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099369/8549b819-450f-41e0-9f3c-25d2b2855602.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096084/a50664c2-fdc2-4a84-b7ad-220a42638d0f.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099590/40ae71e2-2b36-4d3b-9b86-58896a8629b5.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099327/faa86379-c87b-4c76-83b8-15c2af1f9c33.png"
+    ]
+  },
+  {
+    "name": "Pav Bhaji",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 160
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.8,
+    "reviews": 480,
+    "category": "street_food",
+    "description": "A thick and spicy vegetable mash (bhaji) served with buttered, soft buns (pav). A Mumbai street food icon.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099389/575fafb4-d1bf-4060-aba2-b064d34b986c.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096068/0ab3c254-3e0d-4f37-8a2f-1029a9cc4d05.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099534/e71a97a6-1c2b-42bd-9728-65a6c2737cee.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099351/cc9b3c60-e299-4240-83fe-16da8d495821.png"
+    ]
+  },
+  {
+    "name": "Palak Paneer",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 240
+      },
+      {
+        "size": "Full",
+        "amount": 450
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.7,
+    "reviews": 220,
+    "category": "main_course",
+    "description": "A classic Indian curry with soft cubes of paneer in a smooth, creamy, and mildly spiced spinach gravy.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101054/e89c6118-8004-46e4-95a2-6a9111575e04.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101067/7cc1897e-2e32-48e6-b64f-c45724bb9f97.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101146/eda18404-1397-4e5e-9a06-c236b2d6adca.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101153/f332784c-45c8-46a4-bc52-37df07ddce41.png"
+    ]
+  },
+  {
+    "name": "Aloo Tikki Chaat",
+    "price": [
+      {
+        "size": "Single",
+        "amount": 100
+      },
+      {
+        "size": "Double",
+        "amount": 180
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.8,
+    "reviews": 310,
+    "category": "street_food",
+    "description": "Crispy potato patties (aloo tikki) topped with spicy chickpea curry, sweet and sour chutneys, and a sprinkle of chaat masala. A favorite North Indian street food.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756100733/cef4aea0-ea42-46e7-9aff-9e8b72fd12f7.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756100752/a1a3a86a-4e6a-4abf-9d85-7e55ad88d06c.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756100759/420a32b6-a6eb-4604-a873-c0d25b28a576.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756100817/77c459c9-15ba-4fe6-9f9c-23d4ab44ca30.png"
+    ]
+  },
+  {
+    "name": "Veg Spring Roll",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 140
+      },
+      {
+        "size": "Full",
+        "amount": 260
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.6,
+    "reviews": 210,
+    "category": "snacks",
+    "description": "Crispy fried spring rolls filled with shredded cabbage, carrots, and glass noodles. Served with a sweet chili dipping sauce.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099526/2a099f0e-fc05-41ac-a151-dcb1a4255648.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096050/69c15ccc-e572-43bb-a2f1-84853a4bf2a8.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099364/6d5d8780-d6a1-470d-b251-a95a573a1a6a.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756100539/0c01cf32-6427-4492-9681-dccf0c6e17a7.png"
+    ]
+  },
+  {
+    "name": "Vegetable Biryani",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 200
+      },
+      {
+        "size": "Full",
+        "amount": 380
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.8,
+    "reviews": 310,
+    "category": "main_course",
+    "description": "Fragrant basmati rice layered with a medley of fresh vegetables and aromatic spices. Served with a side of raita.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101331/069524b2-77b1-47eb-bb4a-e1d0843ddbbf.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101339/18195432-e7bb-4cb3-9b32-ed844754a5a3.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101413/42c6cda5-ff49-4787-9170-f2ea5ce85ad7.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101478/fdb2e7ef-b10b-4370-b9df-33c0d9b086d1.png"
+    ]
+  },
+  {
+    "name": "Kadi Pakoda",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 160
+      }
+    ],
+    "featured": false,
+    "special_menu": true,
+    "ratings": 4.7,
+    "reviews": 90,
+    "category": "main_course",
+    "description": "A tangy and sour yogurt-based curry with fried fritters (pakodas) made from gram flour. A popular dish in Punjab.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756102795/9fcd664a-2a9c-45f1-8869-292052a0837c.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756102840/ac188939-7bfa-4f00-8529-44ae9b39a705.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756102883/80872358-c5a2-4850-a537-f479b1a5ece2.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756102918/3839a492-6be3-4e8b-a6c1-5ff43d7478f0.png"
+    ]
+  },
+  {
+    "name": "Kheer",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 90
+      },
+      {
+        "size": "Full",
+        "amount": 160
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.8,
+    "reviews": 170,
+    "category": "dessert",
+    "description": "A traditional Indian rice pudding made by boiling rice with milk and sugar, and flavored with cardamom, saffron, and nuts.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101787/2d52844b-bd2c-4d6b-8140-d985f8eb28fa.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101794/2b8d5f0c-eab2-4ae0-a078-b70191268ce1.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101806/ddb01b17-e387-49bc-b8e2-555f256aec74.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101839/251b9571-3318-471b-9159-97519e76c6b6.png"
+    ]
+  },
+  {
+    "name": "Veg Grilled Sandwich",
+    "price": [
+      {
+        "size": "Single",
+        "amount": 110
+      },
+      {
+        "size": "Double",
+        "amount": 200
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.5,
+    "reviews": 220,
+    "category": "snacks",
+    "description": "A grilled sandwich with a generous filling of sliced vegetables like onion, tomato, and cucumber, along with mint chutney.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756103510/d92347cf-511b-47f8-aa85-d1ffff39ddd1.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756103540/d059b862-b225-4af6-ab9e-dd816b8effd9.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756103559/8e7b80cb-635d-4abc-aa68-7dc14c67d5f9.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756103593/c9a25fa6-6cca-466f-abd4-a876ed26c200.png"
+    ]
+  },
+  {
+    "name": "Rajma Chawal",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 190
+      }
+    ],
+    "featured": false,
+    "special_menu": true,
+    "ratings": 4.8,
+    "reviews": 310,
+    "category": "main_course",
+    "description": "A comforting North Indian dish of red kidney beans simmered in a thick, spicy gravy. Served with a generous portion of steamed basmati rice.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756129860/b0b8f219-5221-454b-9764-41b0751e7237.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098096/c8fa4130-6325-461c-b153-2cefd87c3200.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756137578/bccb876c-a736-49a7-b71a-c6d5c8660bf0.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104325/8b5831ed-d5fd-46f4-af89-5f317ec224ff.png"
+    ]
+  },
+  {
+    "name": "Margarita Pizza",
+    "price": [
+      {
+        "size": "M",
+        "amount": 280
+      },
+      {
+        "size": "L",
+        "amount": 450
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.7,
+    "reviews": 400,
+    "category": "main_course",
+    "description": "A simple and delicious pizza with fresh mozzarella, ripe tomatoes, and fresh basil leaves on a thin crust.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756129896/e4a2f0b5-d12a-40e3-bb72-5d2eba7fba08.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098046/9dd39517-c7bb-4c73-9646-18636b31a75c.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756137685/c34f578e-fc58-484a-96af-d0a447ad3e64.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104340/b110d941-83cf-407d-8f67-d23f730d70ed.png"
+    ]
+  },
+  {
+    "name": "Kadhai Paneer",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 260
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.8,
+    "reviews": 270,
+    "category": "main_course",
+    "description": "Paneer and bell peppers cooked in a traditional Indian wok (kadhai) with a blend of freshly ground spices.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756129997/4005d520-3fad-4957-b72e-29fff25a9d10.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098023/554efff4-e436-4024-8caa-e714da86e72d.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756137693/aa1d734e-a89f-4225-ab1e-60ffb4a89a7b.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104350/f40ef4a6-0ff0-42a3-913b-50581e0deed2.png"
+    ]
+  },
+  {
+    "name": "Gobi Manchurian Dry",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 150
+      },
+      {
+        "size": "Full",
+        "amount": 280
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.6,
+    "reviews": 190,
+    "category": "appetizer",
+    "description": "Crispy fried cauliflower florets tossed in a spicy, tangy Indo-Chinese sauce with bell peppers and onions.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756130941/03dc1027-7198-4382-b085-3eed60825454.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097979/b94eb8fd-61a9-4abc-9eb0-9cc7b457d0a2.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756137881/ca308106-ff0d-4398-8a18-873253980d89.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104461/85a3e406-7adf-4792-a7c7-e0c9f3b3d672.png"
+    ]
+  },
+  {
+    "name": "Vada Pav",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 60
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.9,
+    "reviews": 700,
+    "category": "street_food",
+    "description": "A deep-fried potato dumpling (vada) placed inside a soft bread bun (pav), served with spicy garlic chutney. A must-try Mumbai street food.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756130957/7654b433-0ae4-4b2d-b083-08d0ae93881e.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097838/1dd3ec14-2d45-420c-b609-e0fd6adea211.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756137891/6ec246a4-204c-4d9a-b71e-2136b61cbf00.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104528/42a61f56-e014-43b7-bafa-edc794ceccaa.png"
+    ]
+  },
+  {
+    "name": "Aloo Paratha with Curd",
+    "price": [
+      {
+        "size": "Single",
+        "amount": 110
+      },
+      {
+        "size": "Double",
+        "amount": 200
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.7,
+    "reviews": 350,
+    "category": "main_course",
+    "description": "Whole wheat flatbread stuffed with a spiced mashed potato filling. Served with a side of homemade yogurt and pickle.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131013/21aa29ae-ed65-4cef-8c8d-c9c0f02b22ce.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097831/565a27ab-aed3-4e7f-8bb4-1d0a55ed3914.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138267/1f427d4a-3748-422c-9283-3ae3cacc64ce.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104635/684a5af9-1ef9-4a60-9945-a61afe011eeb.png"
+    ]
+  },
+  {
+    "name": "Pani Puri",
+    "price": [
+      {
+        "size": "Single",
+        "amount": 80
+      },
+      {
+        "size": "Double",
+        "amount": 150
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 5.0,
+    "reviews": 850,
+    "category": "street_food",
+    "description": "Hollow, crispy fried balls (puris) filled with a mixture of spiced potatoes and chickpeas, dipped in tangy and flavored water (pani).",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131001/24cee24b-59c6-4079-b250-2f27b1313ef7.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097801/98056dce-5c4a-4067-8077-4892bbca092a.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138297/34fb7073-bb1e-4070-a800-276af4301ff4.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104618/fc0d9792-fdd5-417b-be1f-a84dc41ae4ae.png"
+    ]
+  },
+  {
+    "name": "Mutter Paneer",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 240
+      }
+    ],
+    "featured": false,
+    "special_menu": true,
+    "ratings": 4.7,
+    "reviews": 180,
+    "category": "main_course",
+    "description": "A delicious North Indian curry with paneer cubes and green peas in a rich tomato-based gravy.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131819/206cfc9f-ef29-4183-ad6a-2fed7d43822e.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097707/9db6e592-25bf-474c-a7b6-62dbdc3f5081.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138405/956d4523-b5a5-4f8f-863b-098c3d1221e7.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104608/bd89da61-1c93-4092-8a60-e2905bf196bd.png"
+    ]
+  },
+  {
+    "name": "Veg Fried Rice",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 170
+      },
+      {
+        "size": "Full",
+        "amount": 320
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.6,
+    "reviews": 220,
+    "category": "main_course",
+    "description": "A classic Indo-Chinese dish of stir-fried rice with a medley of fresh vegetables and sauces.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131812/79aa2bb5-9361-4845-abc0-30fhttps://res.cloudinary.com/dwwurx8fo/image/upload/v1756131819/206cfc9f-ef29-4183-ad6a-2fed7d43822e.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097689/70be4bbe-a8e4-42b8-b69f-f5ba18d7a6e4.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138393/54be47c0-56c1-4777-9b28-42f545922ce2.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104715/f84e6eb5-cff2-44e1-9db4-b1a96f92b79d.png"
+    ]
+  },
+  {
+    "name": "Veg Noodles",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 160
+      },
+      {
+        "size": "Full",
+        "amount": 300
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.5,
+    "reviews": 250,
+    "category": "main_course",
+    "description": "Wok-tossed noodles with a colorful mix of julienned vegetables and a savory sauce.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131469/41cb9140-c179-43bc-abc7-5b97e7fd3818.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097611/8dbcacd4-44f6-4c3a-93de-c44f4aad8a47.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138380/26b16b46-9e8e-4e7c-8aba-12e8232f6b3b.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756106001/9dfe0b6b-b7dd-4851-9ef3-e682f42db96c.png"
+    ]
+  },
+  {
+    "name": "Malai Kofta",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 280
+      }
+    ],
+    "featured": true,
+    "special_menu": true,
+    "ratings": 4.9,
+    "reviews": 200,
+    "category": "main_course",
+    "description": "Soft, melt-in-your-mouth kofta (dumplings) made from potato and paneer, served in a rich, creamy, and mildly sweet gravy.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131460/939ed2e5-8812-4e31-8636-614f88500c30.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097528/06c7c3f9-895b-411b-a26e-a5f8e4b614d6.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138427/de10bfdf-3615-4eb5-8fda-2132f1904a99.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104886/73b94fa5-008f-4619-99e7-5c88b8996a9d.png"
+    ]
+  },
+  {
+    "name": "Dahi Bhalla",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 110
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.8,
+    "reviews": 230,
+    "category": "street_food",
+    "description": "Soft lentil fritters soaked in creamy yogurt and topped with sweet and tangy chutneys, and a sprinkle of chaat masala.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131397/84cea5de-ffef-4548-a170-f64b3599a965.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097054/753e9e94-0249-4715-a9f6-2d54dcf1e5ad.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138323/f9cad7d4-c39f-40f4-81ef-d5563570cb5c.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104755/96a2e561-78a9-46f0-995a-6e76ac8c58b4.png"
+    ]
+  },
+  {
+    "name": "Veg Kathi Roll",
+    "price": [
+      {
+        "size": "Single",
+        "amount": 140
+      },
+      {
+        "size": "Double",
+        "amount": 260
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.6,
+    "reviews": 160,
+    "category": "snacks",
+    "description": "A layered paratha filled with a spicy mix of sautéed vegetables, paneer, and sauces, rolled up and grilled.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131429/668054ce-5ec8-4c88-897a-d2ad5fd9a771.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097079/90a01817-2123-4a52-ae42-91f739936efe.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138368/0795dfcf-5de9-4a1a-94be-bd960307fffd.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104771/6759109a-f051-4be6-bacd-107c3bcdacde.png"
+    ]
+  },
+  {
+    "name": "Veg Tandoori Platter",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 400
+      }
+    ],
+    "featured": true,
+    "special_menu": true,
+    "ratings": 4.9,
+    "reviews": 170,
+    "category": "appetizer",
+    "description": "A smoky assortment of tandoori-grilled paneer tikka, mushrooms, and mixed vegetables, marinated in spicy yogurt.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131452/2a5a5805-f090-4ce7-9bec-6ec874b8daa7.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096889/441ec8c6-00bd-4d41-bec4-041d6f5a4e93.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138412/7d35a2a7-39f2-4769-a889-cf0734131564.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104276/36b781f3-c8f6-47b2-a4ad-0d7f8982b430.png"
+    ]
+  },
+  {
+    "name": "Idli Sambar",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 80
+      },
+      {
+        "size": "Full",
+        "amount": 150
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.8,
+    "reviews": 300,
+    "category": "snacks",
+    "description": "Soft, fluffy steamed rice cakes served with a bowl of warm, tangy vegetable lentil stew (sambar) and coconut chutney.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756139779/7a4018f7-6f11-471c-95a4-428a9085e9fd.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756139788/b7760b76-adb2-4d33-a02c-605b29f90ddc.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756139736/1e256285-c2ae-41a6-b7c0-fc0cae44d088.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140006/fe270eb4-c165-4e67-be09-e9d179e4a17a.png"
+    ]
+  },
+  {
+    "name": "Gulab Jamun",
+    "price": [
+      {
+        "size": "Single",
+        "amount": 90
+      },
+      {
+        "size": "Double",
+        "amount": 170
+      },
+      {
+        "size": "Triple",
+        "amount": 250
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.9,
+    "reviews": 280,
+    "category": "dessert",
+    "description": "Soft, deep-fried milk solids soaked in a fragrant rose-flavored sugar syrup. A classic Indian dessert.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140325/d8a0eea4-b409-458b-ae03-c61592b63aa3.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140339/e96a8804-5714-44c5-8cc2-e6c43e2beed9.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140296/6f755bde-bf39-4953-ada3-5140439a8550.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140257/cf308759-31d7-4abc-86d6-62c862dcfcaf.png"
+    ]
+  },
+  {
+    "name": "Veg Hakka Noodles",
+    "price": [
+      {
+        "size": "Half",
+        "amount": 180
+      },
+      {
+        "size": "Full",
+        "amount": 340
+      }
+    ],
+    "featured": false,
+    "special_menu": true,
+    "ratings": 4.7,
+    "reviews": 150,
+    "category": "main_course",
+    "description": "Indo-Chinese style noodles with a slightly spicy and sour flavor from soy sauce, vinegar, and chili sauce, packed with vegetables.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140345/c880ffc1-42fa-46b8-abd8-351061d0b50a.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140354/613b575a-b680-402b-88a4-971d5578f515.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140431/15e73c8a-d3f1-4fbb-a1ff-b7c2e99658b1.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140440/efb6d8f8-f78b-4116-b395-8ed95fa9d3a4.png"
+    ]
+  },
+  {
+    "name": "Rasmalai",
+    "price": [
+      {
+        "size": "Single",
+        "amount": 130
+      },
+      {
+        "size": "Double",
+        "amount": 250
+      },
+      {
+        "size": "Triple",
+        "amount": 370
+      }
+    ],
+    "featured": true,
+    "special_menu": false,
+    "ratings": 4.9,
+    "reviews": 250,
+    "category": "dessert",
+    "description": "Soft and spongy cottage cheese dumplings soaked in a sweetened, thickened milk infused with cardamom and saffron.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140499/4fb4382d-8d40-4000-9695-96e1386cb35e.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140417/290de9ba-0d31-4fb7-8da4-68aaf7d2aa39.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140486/25f97031-4eba-4c94-bf89-7a591bbf08f0.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140402/675e6c60-921e-43f5-addc-dc35648b7ba4.png"
+    ]
+  }
+]
