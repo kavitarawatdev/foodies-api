@@ -7,8 +7,15 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+      "express",
+      "nodejs",
+      "mongodb",
+      "mongoose",
+      "rest-api",
+      "foodies-api"
+  ],
+  "author": "Kavita Rawat",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
