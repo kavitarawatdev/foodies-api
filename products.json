@@ -7,7 +7,7 @@
         "amount": 250
       }
     ],
-    "featured": true,
+    "featured": false,
     "special_menu": false,
     "ratings": 4.9,
     "reviews": 320,
@@ -57,7 +57,7 @@
         "amount": 240
       }
     ],
-    "featured": true,
+    "featured": false,
     "special_menu": false,
     "ratings": 4.7,
     "reviews": 510,
@@ -170,7 +170,7 @@
         "amount": 160
       }
     ],
-    "featured": true,
+    "featured": false,
     "special_menu": false,
     "ratings": 4.8,
     "reviews": 480,
@@ -341,7 +341,7 @@
         "amount": 200
       }
     ],
-    "featured": false,
+    "featured": true,
     "special_menu": false,
     "ratings": 4.5,
     "reviews": 220,
@@ -387,7 +387,7 @@
         "amount": 450
       }
     ],
-    "featured": false,
+    "featured": true,
     "special_menu": false,
     "ratings": 4.7,
     "reviews": 400,
@@ -454,7 +454,7 @@
         "amount": 60
       }
     ],
-    "featured": true,
+    "featured": false,
     "special_menu": false,
     "ratings": 4.9,
     "reviews": 700,
