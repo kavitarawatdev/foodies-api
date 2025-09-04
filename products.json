@@ -78,7 +78,7 @@
         "amount": 180
       }
     ],
-    "featured": true,
+    "featured": false,
     "special_menu": false,
     "ratings": 4.9,
     "reviews": 600,
@@ -408,7 +408,7 @@
         "amount": 260
       }
     ],
-    "featured": true,
+    "featured": false,
     "special_menu": false,
     "ratings": 4.8,
     "reviews": 270,
@@ -504,7 +504,7 @@
         "amount": 150
       }
     ],
-    "featured": true,
+    "featured": false,
     "special_menu": false,
     "ratings": 5.0,
     "reviews": 850,
@@ -771,7 +771,7 @@
         "amount": 370
       }
     ],
-    "featured": true,
+    "featured": false,
     "special_menu": false,
     "ratings": 4.9,
     "reviews": 250,

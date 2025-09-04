@@ -16,6 +16,8 @@ app.use(cors({
   origin: [
     "http://localhost:5000",
     "http://localhost:8080",
+    "http://localhost:5173",   // Vite
+    "http://localhost:3000",   // CRA
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true,
