@@ -11,7 +11,7 @@
     "special_menu": false,
     "ratings": 4.9,
     "reviews": 320,
-    "category": "main_course",
+    "category": "main course",
     "description": "Soft cubes of paneer simmered in a creamy, rich tomato and cashew gravy. A classic, velvety Indian curry.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756060122/4d595fec-611f-4399-8cba-c764d2d8cbbe.png",
@@ -82,7 +82,7 @@
     "special_menu": false,
     "ratings": 4.9,
     "reviews": 600,
-    "category": "street_food",
+    "category": "street food",
     "description": "A popular North Indian dish consisting of spicy chickpea curry (chole) and deep-fried leavened bread (bhature). A perfect street food meal.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756062194/77bb7b9d-55e0-402f-b00a-7c1695ac53e7.png",
@@ -103,7 +103,7 @@
     "special_menu": false,
     "ratings": 4.8,
     "reviews": 290,
-    "category": "main_course",
+    "category": "main course",
     "description": "A slow-cooked medley of black lentils and kidney beans, finished with butter and cream. A rich, buttery Indian delicacy.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098396/fefca099-cf43-4be9-bafe-745efc72ed71.png",
@@ -153,7 +153,7 @@
     "special_menu": false,
     "ratings": 4.9,
     "reviews": 550,
-    "category": "street_food",
+    "category": "street food",
     "description": "A popular street food dish with crushed samosas topped with spicy chickpea curry, sweet and tangy chutneys, yogurt, and crispy sev.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099369/8549b819-450f-41e0-9f3c-25d2b2855602.png",
@@ -174,7 +174,7 @@
     "special_menu": false,
     "ratings": 4.8,
     "reviews": 480,
-    "category": "street_food",
+    "category": "street food",
     "description": "A thick and spicy vegetable mash (bhaji) served with buttered, soft buns (pav). A Mumbai street food icon.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099389/575fafb4-d1bf-4060-aba2-b064d34b986c.png",
@@ -199,7 +199,7 @@
     "special_menu": false,
     "ratings": 4.7,
     "reviews": 220,
-    "category": "main_course",
+    "category": "main course",
     "description": "A classic Indian curry with soft cubes of paneer in a smooth, creamy, and mildly spiced spinach gravy.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101054/e89c6118-8004-46e4-95a2-6a9111575e04.png",
@@ -224,7 +224,7 @@
     "special_menu": false,
     "ratings": 4.8,
     "reviews": 310,
-    "category": "street_food",
+    "category": "street food",
     "description": "Crispy potato patties (aloo tikki) topped with spicy chickpea curry, sweet and sour chutneys, and a sprinkle of chaat masala. A favorite North Indian street food.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756100733/cef4aea0-ea42-46e7-9aff-9e8b72fd12f7.png",
@@ -274,7 +274,7 @@
     "special_menu": false,
     "ratings": 4.8,
     "reviews": 310,
-    "category": "main_course",
+    "category": "main course",
     "description": "Fragrant basmati rice layered with a medley of fresh vegetables and aromatic spices. Served with a side of raita.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101331/069524b2-77b1-47eb-bb4a-e1d0843ddbbf.png",
@@ -295,7 +295,7 @@
     "special_menu": true,
     "ratings": 4.7,
     "reviews": 90,
-    "category": "main_course",
+    "category": "main course",
     "description": "A tangy and sour yogurt-based curry with fried fritters (pakodas) made from gram flour. A popular dish in Punjab.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756102795/9fcd664a-2a9c-45f1-8869-292052a0837c.png",
@@ -366,7 +366,7 @@
     "special_menu": true,
     "ratings": 4.8,
     "reviews": 310,
-    "category": "main_course",
+    "category": "main course",
     "description": "A comforting North Indian dish of red kidney beans simmered in a thick, spicy gravy. Served with a generous portion of steamed basmati rice.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756129860/b0b8f219-5221-454b-9764-41b0751e7237.png",
@@ -391,7 +391,7 @@
     "special_menu": false,
     "ratings": 4.7,
     "reviews": 400,
-    "category": "main_course",
+    "category": "main course",
     "description": "A simple and delicious pizza with fresh mozzarella, ripe tomatoes, and fresh basil leaves on a thin crust.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756129896/e4a2f0b5-d12a-40e3-bb72-5d2eba7fba08.png",
@@ -412,7 +412,7 @@
     "special_menu": false,
     "ratings": 4.8,
     "reviews": 270,
-    "category": "main_course",
+    "category": "main course",
     "description": "Paneer and bell peppers cooked in a traditional Indian wok (kadhai) with a blend of freshly ground spices.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756129997/4005d520-3fad-4957-b72e-29fff25a9d10.png",
@@ -458,7 +458,7 @@
     "special_menu": false,
     "ratings": 4.9,
     "reviews": 700,
-    "category": "street_food",
+    "category": "street food",
     "description": "A deep-fried potato dumpling (vada) placed inside a soft bread bun (pav), served with spicy garlic chutney. A must-try Mumbai street food.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756130957/7654b433-0ae4-4b2d-b083-08d0ae93881e.png",
@@ -483,7 +483,7 @@
     "special_menu": false,
     "ratings": 4.7,
     "reviews": 350,
-    "category": "main_course",
+    "category": "main course",
     "description": "Whole wheat flatbread stuffed with a spiced mashed potato filling. Served with a side of homemade yogurt and pickle.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131013/21aa29ae-ed65-4cef-8c8d-c9c0f02b22ce.png",
@@ -508,7 +508,7 @@
     "special_menu": false,
     "ratings": 5.0,
     "reviews": 850,
-    "category": "street_food",
+    "category": "street food",
     "description": "Hollow, crispy fried balls (puris) filled with a mixture of spiced potatoes and chickpeas, dipped in tangy and flavored water (pani).",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131001/24cee24b-59c6-4079-b250-2f27b1313ef7.png",
@@ -529,7 +529,7 @@
     "special_menu": true,
     "ratings": 4.7,
     "reviews": 180,
-    "category": "main_course",
+    "category": "main course",
     "description": "A delicious North Indian curry with paneer cubes and green peas in a rich tomato-based gravy.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131819/206cfc9f-ef29-4183-ad6a-2fed7d43822e.png",
@@ -554,10 +554,10 @@
     "special_menu": false,
     "ratings": 4.6,
     "reviews": 220,
-    "category": "main_course",
+    "category": "main course",
     "description": "A classic Indo-Chinese dish of stir-fried rice with a medley of fresh vegetables and sauces.",
     "images": [
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131812/79aa2bb5-9361-4845-abc0-30fhttps://res.cloudinary.com/dwwurx8fo/image/upload/v1756131819/206cfc9f-ef29-4183-ad6a-2fed7d43822e.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131812/79aa2bb5-9361-4845-abc0-30f0d7b3f9b0.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097689/70be4bbe-a8e4-42b8-b69f-f5ba18d7a6e4.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138393/54be47c0-56c1-4777-9b28-42f545922ce2.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104715/f84e6eb5-cff2-44e1-9db4-b1a96f92b79d.png"
@@ -579,7 +579,7 @@
     "special_menu": false,
     "ratings": 4.5,
     "reviews": 250,
-    "category": "main_course",
+    "category": "main course",
     "description": "Wok-tossed noodles with a colorful mix of julienned vegetables and a savory sauce.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131469/41cb9140-c179-43bc-abc7-5b97e7fd3818.png",
@@ -597,10 +597,10 @@
       }
     ],
     "featured": true,
-    "special_menu": true,
+    "special_menu": false,
     "ratings": 4.9,
     "reviews": 200,
-    "category": "main_course",
+    "category": "main course",
     "description": "Soft, melt-in-your-mouth kofta (dumplings) made from potato and paneer, served in a rich, creamy, and mildly sweet gravy.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131460/939ed2e5-8812-4e31-8636-614f88500c30.png",
@@ -618,10 +618,10 @@
       }
     ],
     "featured": false,
-    "special_menu": false,
+    "special_menu": true,
     "ratings": 4.8,
     "reviews": 230,
-    "category": "street_food",
+    "category": "street food",
     "description": "Soft lentil fritters soaked in creamy yogurt and topped with sweet and tangy chutneys, and a sprinkle of chaat masala.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131397/84cea5de-ffef-4548-a170-f64b3599a965.png",
@@ -746,7 +746,7 @@
     "special_menu": true,
     "ratings": 4.7,
     "reviews": 150,
-    "category": "main_course",
+    "category": "main course",
     "description": "Indo-Chinese style noodles with a slightly spicy and sour flavor from soy sauce, vinegar, and chili sauce, packed with vegetables.",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140345/c880ffc1-42fa-46b8-abd8-351061d0b50a.png",
