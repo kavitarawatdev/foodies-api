@@ -54,7 +54,7 @@ const productSchema = new mongoose.Schema(
     category: {
       type: String,
       enum: {
-        values: ["appetizer", "main_course", "dessert", "beverages", "snacks", "street_food"],
+        values: ["appetizer", "main course", "dessert", "beverages", "snacks", "street food"],
         message: "{VALUE} is not a valid category"
       }
     },
