@@ -663,7 +663,7 @@
         "amount": 400
       }
     ],
-    "featured": true,
+    "featured": false,
     "special_menu": true,
     "ratings": 4.9,
     "reviews": 170,
