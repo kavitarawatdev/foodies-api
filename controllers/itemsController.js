@@ -18,7 +18,24 @@ const getAllItemsTesting= async(req , res)=>{
     })
 }
 
+const getIndItem = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const data = await productModel.findById(id);
+
+    if (!data) {
+      return res.status(404).json({ error: "item not found" });
+    }
+
+    res.status(200).json(data);
+  } catch (error) {
+    res.status(500).json({ error: "Invalid ID format or server error" });
+  }
+};
+
+
 module.exports = {
     getAllItems,
-    getAllItemsTesting
+    getAllItemsTesting,
+    getIndItem
 }
