@@ -20,8 +20,11 @@ const getAllItemsTesting= async(req , res)=>{
 
 const getIndItem = async (req, res) => {
   try {
+    console.log("params :", req.params);
     const { id } = req.params;
+    console.log("id :", id);
     const data = await productModel.findById(id);
+    console.log("data :", data);
 
     if (!data) {
       return res.status(404).json({ error: "item not found" });
