@@ -18,6 +18,53 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756059916/fb99e732-0bd4-470c-9e0b-50e56bb75c18.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756059934/40ccc51f-d9f5-45b7-8224-ffcdc30ab0a6.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756059938/b67ec41b-5bd8-4e10-9671-fa5e2f91116d.png"
+    ],
+    "ingredients": [
+      "paneer",
+      "tomato",
+      "cream",
+      "butter",
+      "cashew",
+      "onion",
+      "ginger",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "20g",
+        "details": {
+          "sugar": "8g",
+          "fiber": "2g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "30g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "18g",
+          "cholesterol": "65mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "15g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin A",
+            "amount": "400 IU"
+          },
+          {
+            "name": "Vitamin C",
+            "amount": "3mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -43,6 +90,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061164/35026d34-2fc9-4f79-9ef4-ae209bfcfbab.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061401/f0d90ac5-8c12-421e-a8ba-a9a30e5327b7.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061348/1f6fca43-1527-4ee5-92a2-97541fe35105.png"
+    ],
+    "ingredients": [
+      "rice",
+      "lentils",
+      "potato",
+      "onion",
+      "mustard seeds",
+      "curry leaves",
+      "oil"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "45g",
+        "details": {
+          "sugar": "1g",
+          "fiber": "5g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "10g",
+        "details": {
+          "trans_fat": "0g",
+          "saturated_fat": "2g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "8g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin B12",
+            "amount": "0.1mcg"
+          },
+          {
+            "name": "Folate",
+            "amount": "15mcg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -68,6 +161,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061779/a439fb09-0501-4333-ba0b-e0e51cce0379.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061755/4778f8c5-d4a7-4cd1-8a92-9532d92c05b7.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756061866/3d98c4e2-2e2c-464a-98bd-87cb4284a1d0.png"
+    ],
+    "ingredients": [
+      "all-purpose flour",
+      "cabbage",
+      "carrot",
+      "onion",
+      "ginger",
+      "soy sauce",
+      "chili"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "35g",
+        "details": {
+          "sugar": "3g",
+          "fiber": "4g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "5g",
+        "details": {
+          "trans_fat": "0g",
+          "saturated_fat": "1g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "7g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "10mg"
+          },
+          {
+            "name": "Vitamin K",
+            "amount": "5mcg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -89,6 +228,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756062177/6194c2fa-02e6-41da-befa-437ccb1746be.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756062143/16dac394-d7e1-4467-a945-05db08872f70.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756062200/2d1147e8-cdda-4769-b9a1-eda6097a7dc3.png"
+    ],
+    "ingredients": [
+      "chickpea",
+      "all-purpose flour",
+      "yogurt",
+      "onion",
+      "tomato",
+      "spices",
+      "oil"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "60g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "10g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "35g",
+        "details": {
+          "trans_fat": "0.5g",
+          "saturated_fat": "6g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "12g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Folate",
+            "amount": "60mcg"
+          },
+          {
+            "name": "Iron",
+            "amount": "3mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -109,7 +294,54 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098396/fefca099-cf43-4be9-bafe-745efc72ed71.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096103/980e8798-fd0b-4d5d-bc29-66f6ec29b94f.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098389/79ea87d7-1a23-4563-98ea-41d2b186f443.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098896/9550b7b0-b2e4-4247-9336-a5280fbdd7f2.png"
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098896/9550b7b0-b2e4-4247-9336-a5280fbdd7f4.png"
+    ],
+    "ingredients": [
+      "black lentils",
+      "kidney beans",
+      "tomato",
+      "cream",
+      "butter",
+      "ginger",
+      "garlic",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "35g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "12g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "25g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "15g",
+          "cholesterol": "50mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "18g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Iron",
+            "amount": "4mg"
+          },
+          {
+            "name": "Folate",
+            "amount": "80mcg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -135,6 +367,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099027/053e3906-5deb-4d51-bf5e-861e19af6408.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096218/cabe171f-0e97-43c6-862e-d83207215a63.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099149/773e8512-6e72-4029-9941-0d77b771fdf4.png"
+    ],
+    "ingredients": [
+      "bun",
+      "mixed vegetables",
+      "potato",
+      "bread crumbs",
+      "mayonnaise",
+      "lettuce",
+      "cheese"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "40g",
+        "details": {
+          "sugar": "6g",
+          "fiber": "3g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "20g",
+        "details": {
+          "trans_fat": "0.2g",
+          "saturated_fat": "5g",
+          "cholesterol": "10mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "10g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "5mg"
+          },
+          {
+            "name": "Calcium",
+            "amount": "100mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -160,6 +438,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096084/a50664c2-fdc2-4a84-b7ad-220a42638d0f.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099590/40ae71e2-2b36-4d3b-9b86-58896a8629b5.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099327/faa86379-c87b-4c76-83b8-15c2af1f9c33.png"
+    ],
+    "ingredients": [
+      "samosa",
+      "chickpea",
+      "yogurt",
+      "tamarind chutney",
+      "mint chutney",
+      "sev",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "50g",
+        "details": {
+          "sugar": "10g",
+          "fiber": "8g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "25g",
+        "details": {
+          "trans_fat": "0.5g",
+          "saturated_fat": "4g",
+          "cholesterol": "5mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "10g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "8mg"
+          },
+          {
+            "name": "Potassium",
+            "amount": "250mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -181,6 +505,53 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096068/0ab3c254-3e0d-4f37-8a2f-1029a9cc4d05.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099534/e71a97a6-1c2b-42bd-9728-65a6c2737cee.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099351/cc9b3c60-e299-4240-83fe-16da8d495821.png"
+    ],
+    "ingredients": [
+      "potato",
+      "cauliflower",
+      "peas",
+      "tomato",
+      "onion",
+      "butter",
+      "pav bhaji masala",
+      "bun"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "45g",
+        "details": {
+          "sugar": "4g",
+          "fiber": "6g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "20g",
+        "details": {
+          "trans_fat": "0.3g",
+          "saturated_fat": "10g",
+          "cholesterol": "30mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "8g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "15mg"
+          },
+          {
+            "name": "Vitamin K",
+            "amount": "10mcg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -206,6 +577,53 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101067/7cc1897e-2e32-48e6-b64f-c45724bb9f97.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101146/eda18404-1397-4e5e-9a06-c236b2d6adca.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101153/f332784c-45c8-46a4-bc52-37df07ddce41.png"
+    ],
+    "ingredients": [
+      "spinach",
+      "paneer",
+      "onion",
+      "tomato",
+      "cream",
+      "ginger",
+      "garlic",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "15g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "5g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "28g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "16g",
+          "cholesterol": "60mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "17g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin K",
+            "amount": "500mcg"
+          },
+          {
+            "name": "Calcium",
+            "amount": "300mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -231,6 +649,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756100752/a1a3a86a-4e6a-4abf-9d85-7e55ad88d06c.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756100759/420a32b6-a6eb-4604-a873-c0d25b28a576.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756100817/77c459c9-15ba-4fe6-9f9c-23d4ab44ca30.png"
+    ],
+    "ingredients": [
+      "potato",
+      "chickpea",
+      "yogurt",
+      "tamarind chutney",
+      "mint chutney",
+      "spices",
+      "oil"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "45g",
+        "details": {
+          "sugar": "10g",
+          "fiber": "7g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "18g",
+        "details": {
+          "trans_fat": "0.4g",
+          "saturated_fat": "3g",
+          "cholesterol": "5mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "9g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin B6",
+            "amount": "0.3mg"
+          },
+          {
+            "name": "Potassium",
+            "amount": "300mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -256,6 +720,51 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096050/69c15ccc-e572-43bb-a2f1-84853a4bf2a8.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099364/6d5d8780-d6a1-470d-b251-a95a573a1a6a.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756100539/0c01cf32-6427-4492-9681-dccf0c6e17a7.png"
+    ],
+    "ingredients": [
+      "spring roll wrapper",
+      "cabbage",
+      "carrot",
+      "glass noodle",
+      "soy sauce",
+      "oil"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "30g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "3g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "20g",
+        "details": {
+          "trans_fat": "0.2g",
+          "saturated_fat": "4g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "5g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin A",
+            "amount": "500 IU"
+          },
+          {
+            "name": "Vitamin K",
+            "amount": "15mcg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -281,6 +790,53 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101339/18195432-e7bb-4cb3-9b32-ed844754a5a3.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101413/42c6cda5-ff49-4787-9170-f2ea5ce85ad7.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101478/fdb2e7ef-b10b-4370-b9df-33c0d9b086d1.png"
+    ],
+    "ingredients": [
+      "basmati rice",
+      "carrot",
+      "beans",
+      "peas",
+      "paneer",
+      "yogurt",
+      "saffron",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "65g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "7g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "15g",
+        "details": {
+          "trans_fat": "0g",
+          "saturated_fat": "3g",
+          "cholesterol": "5mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "10g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Niacin (B3)",
+            "amount": "2mg"
+          },
+          {
+            "name": "Potassium",
+            "amount": "350mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -302,6 +858,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756102840/ac188939-7bfa-4f00-8529-44ae9b39a705.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756102883/80872358-c5a2-4850-a537-f479b1a5ece2.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756102918/3839a492-6be3-4e8b-a6c1-5ff43d7478f0.png"
+    ],
+    "ingredients": [
+      "yogurt",
+      "gram flour",
+      "onion",
+      "ginger",
+      "turmeric",
+      "mustard seeds",
+      "oil"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "30g",
+        "details": {
+          "sugar": "7g",
+          "fiber": "5g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "15g",
+        "details": {
+          "trans_fat": "0.3g",
+          "saturated_fat": "4g",
+          "cholesterol": "10mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "10g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Calcium",
+            "amount": "150mg"
+          },
+          {
+            "name": "Vitamin D",
+            "amount": "50 IU"
+          }
+        ]
+      }
     ]
   },
   {
@@ -327,6 +929,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101794/2b8d5f0c-eab2-4ae0-a078-b70191268ce1.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101806/ddb01b17-e387-49bc-b8e2-555f256aec74.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101839/251b9571-3318-471b-9159-97519e76c6b6.png"
+    ],
+    "ingredients": [
+      "milk",
+      "rice",
+      "sugar",
+      "cardamom",
+      "saffron",
+      "almonds",
+      "cashew"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "40g",
+        "details": {
+          "sugar": "25g",
+          "fiber": "1g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "12g",
+        "details": {
+          "trans_fat": "0g",
+          "saturated_fat": "7g",
+          "cholesterol": "25mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "8g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Calcium",
+            "amount": "200mg"
+          },
+          {
+            "name": "Vitamin D",
+            "amount": "60 IU"
+          }
+        ]
+      }
     ]
   },
   {
@@ -352,6 +1000,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756103540/d059b862-b225-4af6-ab9e-dd816b8effd9.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756103559/8e7b80cb-635d-4abc-aa68-7dc14c67d5f9.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756103593/c9a25fa6-6cca-466f-abd4-a876ed26c200.png"
+    ],
+    "ingredients": [
+      "bread",
+      "onion",
+      "tomato",
+      "cucumber",
+      "mint chutney",
+      "butter",
+      "potato"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "30g",
+        "details": {
+          "sugar": "3g",
+          "fiber": "4g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "10g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "3g",
+          "cholesterol": "5mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "6g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "12mg"
+          },
+          {
+            "name": "Iron",
+            "amount": "2mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -373,6 +1067,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098096/c8fa4130-6325-461c-b153-2cefd87c3200.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756137578/bccb876c-a736-49a7-b71a-c6d5c8660bf0.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104325/8b5831ed-d5fd-46f4-af89-5f317ec224ff.png"
+    ],
+    "ingredients": [
+      "kidney beans",
+      "basmati rice",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "70g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "15g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "8g",
+        "details": {
+          "trans_fat": "0g",
+          "saturated_fat": "1g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "15g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Iron",
+            "amount": "5mg"
+          },
+          {
+            "name": "Folate",
+            "amount": "100mcg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -398,6 +1138,50 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098046/9dd39517-c7bb-4c73-9646-18636b31a75c.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756137685/c34f578e-fc58-484a-96af-d0a447ad3e64.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104340/b110d941-83cf-407d-8f67-d23f730d70ed.png"
+    ],
+    "ingredients": [
+      "pizza dough",
+      "mozzarella cheese",
+      "tomato sauce",
+      "fresh basil",
+      "olive oil"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "45g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "3g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "18g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "8g",
+          "cholesterol": "35mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "15g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Calcium",
+            "amount": "250mg"
+          },
+          {
+            "name": "Vitamin A",
+            "amount": "500 IU"
+          }
+        ]
+      }
     ]
   },
   {
@@ -419,6 +1203,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098023/554efff4-e436-4024-8caa-e714da86e72d.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756137693/aa1d734e-a89f-4225-ab1e-60ffb4a89a7b.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104350/f40ef4a6-0ff0-42a3-913b-50581e0deed2.png"
+    ],
+    "ingredients": [
+      "paneer",
+      "bell pepper",
+      "onion",
+      "tomato",
+      "kadhai masala",
+      "ginger",
+      "garlic"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "18g",
+        "details": {
+          "sugar": "6g",
+          "fiber": "4g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "25g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "15g",
+          "cholesterol": "55mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "16g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "30mg"
+          },
+          {
+            "name": "Calcium",
+            "amount": "200mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -444,6 +1274,53 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097979/b94eb8fd-61a9-4abc-9eb0-9cc7b457d0a2.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756137881/ca308106-ff0d-4398-8a18-873253980d89.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104461/85a3e406-7adf-4792-a7c7-e0c9f3b3d672.png"
+    ],
+    "ingredients": [
+      "cauliflower",
+      "all-purpose flour",
+      "soy sauce",
+      "ginger",
+      "garlic",
+      "chili sauce",
+      "onion",
+      "oil"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "30g",
+        "details": {
+          "sugar": "8g",
+          "fiber": "5g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "15g",
+        "details": {
+          "trans_fat": "0.2g",
+          "saturated_fat": "2g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "6g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "25mg"
+          },
+          {
+            "name": "Vitamin K",
+            "amount": "10mcg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -465,6 +1342,51 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097838/1dd3ec14-2d45-420c-b609-e0fd6adea211.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756137891/6ec246a4-204c-4d9a-b71e-2136b61cbf00.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104528/42a61f56-e014-43b7-bafa-edc794ceccaa.png"
+    ],
+    "ingredients": [
+      "potato",
+      "gram flour",
+      "bread bun",
+      "garlic chutney",
+      "oil",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "35g",
+        "details": {
+          "sugar": "3g",
+          "fiber": "3g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "15g",
+        "details": {
+          "trans_fat": "0.3g",
+          "saturated_fat": "2g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "7g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin B6",
+            "amount": "0.2mg"
+          },
+          {
+            "name": "Potassium",
+            "amount": "250mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -490,6 +1412,51 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097831/565a27ab-aed3-4e7f-8bb4-1d0a55ed3914.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138267/1f427d4a-3748-422c-9283-3ae3cacc64ce.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104635/684a5af9-1ef9-4a60-9945-a61afe011eeb.png"
+    ],
+    "ingredients": [
+      "whole wheat flour",
+      "potato",
+      "curd",
+      "pickle",
+      "spices",
+      "ghee"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "50g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "6g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "15g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "5g",
+          "cholesterol": "10mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "10g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Calcium",
+            "amount": "150mg"
+          },
+          {
+            "name": "Potassium",
+            "amount": "300mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -512,9 +1479,55 @@
     "description": "Hollow, crispy fried balls (puris) filled with a mixture of spiced potatoes and chickpeas, dipped in tangy and flavored water (pani).",
     "images": [
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756131001/24cee24b-59c6-4079-b250-2f27b1313ef7.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097801/98056dce-5c4a-4067-8077-4892bbca092a.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097801/98056dce-5c4a-4079-b077-4892bbca092a.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138297/34fb7073-bb1e-4070-a800-276af4301ff4.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104618/fc0d9792-fdd5-417b-be1f-a84dc41ae4ae.png"
+    ],
+    "ingredients": [
+      "semolina puri",
+      "potato",
+      "chickpea",
+      "tamarind",
+      "mint",
+      "spices",
+      "jaggery"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "40g",
+        "details": {
+          "sugar": "8g",
+          "fiber": "5g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "10g",
+        "details": {
+          "trans_fat": "0.2g",
+          "saturated_fat": "1g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "6g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "10mg"
+          },
+          {
+            "name": "Iron",
+            "amount": "1.5mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -536,6 +1549,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097707/9db6e592-25bf-474c-a7b6-62dbdc3f5081.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138405/956d4523-b5a5-4f8f-863b-098c3d1221e7.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104608/bd89da61-1c93-4092-8a60-e2905bf196bd.png"
+    ],
+    "ingredients": [
+      "paneer",
+      "green peas",
+      "tomato",
+      "onion",
+      "ginger",
+      "cream",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "25g",
+        "details": {
+          "sugar": "7g",
+          "fiber": "5g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "20g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "12g",
+          "cholesterol": "45mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "14g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin A",
+            "amount": "300 IU"
+          },
+          {
+            "name": "Calcium",
+            "amount": "180mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -561,6 +1620,53 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097689/70be4bbe-a8e4-42b8-b69f-f5ba18d7a6e4.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138393/54be47c0-56c1-4777-9b28-42f545922ce2.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104715/f84e6eb5-cff2-44e1-9db4-b1a96f92b79d.png"
+    ],
+    "ingredients": [
+      "rice",
+      "carrot",
+      "cabbage",
+      "bell pepper",
+      "soy sauce",
+      "oil",
+      "ginger",
+      "garlic"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "55g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "3g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "12g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "2g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "7g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "15mg"
+          },
+          {
+            "name": "Niacin (B3)",
+            "amount": "1.5mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -586,6 +1692,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097611/8dbcacd4-44f6-4c3a-93de-c44f4aad8a47.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138380/26b16b46-9e8e-4e7c-8aba-12e8232f6b3b.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756106001/9dfe0b6b-b7dd-4851-9ef3-e682f42db96c.png"
+    ],
+    "ingredients": [
+      "noodles",
+      "cabbage",
+      "carrot",
+      "onion",
+      "bell pepper",
+      "soy sauce",
+      "oil"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "50g",
+        "details": {
+          "sugar": "4g",
+          "fiber": "3g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "10g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "2g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "8g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "10mg"
+          },
+          {
+            "name": "Iron",
+            "amount": "1mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -607,6 +1759,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097528/06c7c3f9-895b-411b-a26e-a5f8e4b614d6.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138427/de10bfdf-3615-4eb5-8fda-2132f1904a99.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104886/73b94fa5-008f-4619-99e7-5c88b8996a9d.png"
+    ],
+    "ingredients": [
+      "paneer",
+      "potato",
+      "cream",
+      "cashew",
+      "onion",
+      "ginger",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "30g",
+        "details": {
+          "sugar": "10g",
+          "fiber": "3g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "35g",
+        "details": {
+          "trans_fat": "0.2g",
+          "saturated_fat": "20g",
+          "cholesterol": "70mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "15g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin A",
+            "amount": "450 IU"
+          },
+          {
+            "name": "Calcium",
+            "amount": "220mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -628,6 +1826,51 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097054/753e9e94-0249-4715-a9f6-2d54dcf1e5ad.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138323/f9cad7d4-c39f-40f4-81ef-d5563570cb5c.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104755/96a2e561-78a9-46f0-995a-6e76ac8c58b4.png"
+    ],
+    "ingredients": [
+      "urad dal",
+      "yogurt",
+      "tamarind chutney",
+      "mint chutney",
+      "spices",
+      "oil"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "35g",
+        "details": {
+          "sugar": "10g",
+          "fiber": "6g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "10g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "3g",
+          "cholesterol": "10mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "12g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Calcium",
+            "amount": "200mg"
+          },
+          {
+            "name": "Folate",
+            "amount": "50mcg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -653,6 +1896,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756097079/90a01817-2123-4a52-ae42-91f739936efe.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138368/0795dfcf-5de9-4a1a-94be-bd960307fffd.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104771/6759109a-f051-4be6-bacd-107c3bcdacde.png"
+    ],
+    "ingredients": [
+      "paratha",
+      "paneer",
+      "cabbage",
+      "carrot",
+      "onion",
+      "tomato sauce",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "40g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "5g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "25g",
+        "details": {
+          "trans_fat": "0.3g",
+          "saturated_fat": "8g",
+          "cholesterol": "20mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "12g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin A",
+            "amount": "350 IU"
+          },
+          {
+            "name": "Iron",
+            "amount": "3mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -674,6 +1963,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096889/441ec8c6-00bd-4d41-bec4-041d6f5a4e93.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756138412/7d35a2a7-39f2-4769-a889-cf0734131564.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756104276/36b781f3-c8f6-47b2-a4ad-0d7f8982b430.png"
+    ],
+    "ingredients": [
+      "paneer",
+      "mushroom",
+      "bell pepper",
+      "onion",
+      "yogurt",
+      "ginger",
+      "tandoori spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "15g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "5g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "20g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "10g",
+          "cholesterol": "40mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "20g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Calcium",
+            "amount": "250mg"
+          },
+          {
+            "name": "Vitamin C",
+            "amount": "20mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -699,6 +2034,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756139788/b7760b76-adb2-4d33-a02c-605b29f90ddc.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756139736/1e256285-c2ae-41a6-b7c0-fc0cae44d088.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140006/fe270eb4-c165-4e67-be09-e9d179e4a17a.png"
+    ],
+    "ingredients": [
+      "rice",
+      "urad dal",
+      "lentils",
+      "vegetables",
+      "coconut",
+      "mustard seeds",
+      "tamarind"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "40g",
+        "details": {
+          "sugar": "3g",
+          "fiber": "8g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "5g",
+        "details": {
+          "trans_fat": "0g",
+          "saturated_fat": "1g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "10g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Iron",
+            "amount": "2.5mg"
+          },
+          {
+            "name": "Folate",
+            "amount": "40mcg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -728,6 +2109,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140339/e96a8804-5714-44c5-8cc2-e6c43e2beed9.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140296/6f755bde-bf39-4953-ada3-5140439a8550.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140257/cf308759-31d7-4abc-86d6-62c862dcfcaf.png"
+    ],
+    "ingredients": [
+      "khoya",
+      "milk solids",
+      "sugar",
+      "flour",
+      "rose water",
+      "cardamom",
+      "oil/ghee"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "35g",
+        "details": {
+          "sugar": "30g",
+          "fiber": "0g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "15g",
+        "details": {
+          "trans_fat": "0.3g",
+          "saturated_fat": "8g",
+          "cholesterol": "30mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "5g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Calcium",
+            "amount": "100mg"
+          },
+          {
+            "name": "Vitamin A",
+            "amount": "150 IU"
+          }
+        ]
+      }
     ]
   },
   {
@@ -753,6 +2180,53 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140354/613b575a-b680-402b-88a4-971d5578f515.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140431/15e73c8a-d3f1-4fbb-a1ff-b7c2e99658b1.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140440/efb6d8f8-f78b-4116-b395-8ed95fa9d3a4.png"
+    ],
+    "ingredients": [
+      "noodles",
+      "cabbage",
+      "carrot",
+      "onion",
+      "soy sauce",
+      "chili sauce",
+      "vinegar",
+      "oil"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "55g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "4g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "12g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "2g",
+          "cholesterol": "0mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "9g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "12mg"
+          },
+          {
+            "name": "Niacin (B3)",
+            "amount": "2mg"
+          }
+        ]
+      }
     ]
   },
   {
@@ -782,6 +2256,52 @@
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140417/290de9ba-0d31-4fb7-8da4-68aaf7d2aa39.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140486/25f97031-4eba-4c94-bf89-7a591bbf08f0.png",
       "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756140402/675e6c60-921e-43f5-addc-dc35648b7ba4.png"
+    ],
+    "ingredients": [
+      "paneer",
+      "milk",
+      "sugar",
+      "saffron",
+      "cardamom",
+      "pistachio",
+      "almonds"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "30g",
+        "details": {
+          "sugar": "25g",
+          "fiber": "0g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "10g",
+        "details": {
+          "trans_fat": "0g",
+          "saturated_fat": "5g",
+          "cholesterol": "20mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "10g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Calcium",
+            "amount": "180mg"
+          },
+          {
+            "name": "Vitamin B12",
+            "amount": "0.2mcg"
+          }
+        ]
+      }
     ]
   }
 ]

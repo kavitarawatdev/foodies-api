@@ -11,7 +11,7 @@ const productSchema = new mongoose.Schema(
       // array of objects  each object represents a size-price combination.
       type: [{
         // size of the product
-        size:{
+        size: {
           type: String,
           enum: {
             values: ["S", "M", "L", "Half", "Full", "Single", "Double", "Triple"],
@@ -19,21 +19,34 @@ const productSchema = new mongoose.Schema(
           }
         },
         // amount of the product
-        amount:{
+        amount: {
           type: Number,
           required: true,
           min: 0
         }
       }],
       required: [true, "Price is required"],
-       validate: {
-        validator: function(arr) {
-          if (!arr || arr.length === 0) return false;
-          const sizes = arr.map(p => p.size);
-          return sizes.length === new Set(sizes).size;
-        },
-        message: "Price must contain at least one unique size and amount combination."
-      }
+      validate: {
+        validator: function (arr) {
+          if (!arr || arr.length === 0) return false;
+          const sizes = arr.map(p => p.size);
+          return sizes.length === new Set(sizes).size;
+        },
+        message: "Price must contain at least one unique size and amount combination."
+      }
+    },
+    food_info: {
+      type:[{
+        nutrient:{
+          type:String,
+        },
+        amount:{
+          type:String,
+        },
+        details:{
+          type:mongoose.Schema.Types.Mixed
+        }
+      }],
     },
     featured: {
       type: Boolean,
@@ -76,10 +89,14 @@ const productSchema = new mongoose.Schema(
         message: "At least 3 images must be provided"
       }
     },
+    ingredients: {
+      type: [String], 
+      required: [true, "Ingredients are required"],
+    },
     createdAt: {
       type: Date,
       default: Date.now
-    },  
+    },
     availability: {
       type: Boolean,
       default: true
