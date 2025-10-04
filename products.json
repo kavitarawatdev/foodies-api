@@ -33,35 +33,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "20g",
-        "details": {
-          "sugar": "8g",
-          "fiber": "2g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "8g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "2g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "30g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "18g",
-          "cholesterol": "65mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "18g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "65mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "15g"
+        "amount": "15g",
+        "details": [] 
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin A",
-            "amount": "400 IU"
+            "sub_nut": "Vitamin A", 
+            "value": "400 IU"      
           },
           {
-            "name": "Vitamin C",
-            "amount": "3mg"
+            "sub_nut": "Vitamin C", 
+            "value": "3mg"         
           }
         ]
       }
@@ -104,35 +120,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "45g",
-        "details": {
-          "sugar": "1g",
-          "fiber": "5g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "1g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "5g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "10g",
-        "details": {
-          "trans_fat": "0g",
-          "saturated_fat": "2g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "2g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "8g"
+        "amount": "8g",
+        "details": [] 
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin B12",
-            "amount": "0.1mcg"
+            "sub_nut": "Vitamin B12", 
+            "value": "0.1mcg"        
           },
           {
-            "name": "Folate",
-            "amount": "15mcg"
+            "sub_nut": "Folate", 
+            "value": "15mcg"     
           }
         ]
       }
@@ -175,35 +207,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "35g",
-        "details": {
-          "sugar": "3g",
-          "fiber": "4g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "3g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "4g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "5g",
-        "details": {
-          "trans_fat": "0g",
-          "saturated_fat": "1g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "1g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "7g"
+        "amount": "7g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin C",
-            "amount": "10mg"
+            "sub_nut": "Vitamin C",
+            "value": "10mg"
           },
           {
-            "name": "Vitamin K",
-            "amount": "5mcg"
+            "sub_nut": "Vitamin K",
+            "value": "5mcg"
           }
         ]
       }
@@ -242,174 +290,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "60g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "10g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "10g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "35g",
-        "details": {
-          "trans_fat": "0.5g",
-          "saturated_fat": "6g",
-          "cholesterol": "0mg"
-        }
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "12g"
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
         "details": [
           {
-            "name": "Folate",
-            "amount": "60mcg"
+            "sub_nut": "trans_fat",
+            "value": "0.5g"
           },
           {
-            "name": "Iron",
-            "amount": "3mg"
+            "sub_nut": "saturated_fat",
+            "value": "6g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Dal Makhani",
-    "price": [
-      {
-        "size": "Full",
-        "amount": 220
-      }
-    ],
-    "featured": false,
-    "special_menu": false,
-    "ratings": 4.8,
-    "reviews": 290,
-    "category": "main course",
-    "description": "A slow-cooked medley of black lentils and kidney beans, finished with butter and cream. A rich, buttery Indian delicacy.",
-    "images": [
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098396/fefca099-cf43-4be9-bafe-745efc72ed71.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096103/980e8798-fd0b-4d5d-bc29-66f6ec29b94f.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098389/79ea87d7-1a23-4563-98ea-41d2b186f443.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098896/9550b7b0-b2e4-4247-9336-a5280fbdd7f4.png"
-    ],
-    "ingredients": [
-      "black lentils",
-      "kidney beans",
-      "tomato",
-      "cream",
-      "butter",
-      "ginger",
-      "garlic",
-      "spices"
-    ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "35g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "12g"
-        }
-      },
-      {
-        "nutrient": "fats",
-        "amount": "25g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "15g",
-          "cholesterol": "50mg"
-        }
       },
       {
         "nutrient": "proteins",
-        "amount": "18g"
+        "amount": "12g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Iron",
-            "amount": "4mg"
+            "sub_nut": "Folate",
+            "value": "60mcg"
           },
           {
-            "name": "Folate",
-            "amount": "80mcg"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Veg Burger",
-    "price": [
-      {
-        "size": "M",
-        "amount": 150
-      },
-      {
-        "size": "L",
-        "amount": 200
-      }
-    ],
-    "featured": false,
-    "special_menu": false,
-    "ratings": 4.6,
-    "reviews": 380,
-    "category": "snacks",
-    "description": "A crispy and flavorful mixed vegetable patty served on a toasted bun with lettuce, tomato, cheese, and a special house sauce. Served with fries.",
-    "images": [
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099072/68ff8af0-e334-402c-aa68-cdbbc1beed12.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099027/053e3906-5deb-4d51-bf5e-861e19af6408.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096218/cabe171f-0e97-43c6-862e-d83207215a63.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099149/773e8512-6e72-4029-9941-0d77b771fdf4.png"
-    ],
-    "ingredients": [
-      "bun",
-      "mixed vegetables",
-      "potato",
-      "bread crumbs",
-      "mayonnaise",
-      "lettuce",
-      "cheese"
-    ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "40g",
-        "details": {
-          "sugar": "6g",
-          "fiber": "3g"
-        }
-      },
-      {
-        "nutrient": "fats",
-        "amount": "20g",
-        "details": {
-          "trans_fat": "0.2g",
-          "saturated_fat": "5g",
-          "cholesterol": "10mg"
-        }
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "10g"
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "name": "Vitamin C",
-            "amount": "5mg"
-          },
-          {
-            "name": "Calcium",
-            "amount": "100mg"
+            "sub_nut": "Iron",
+            "value": "3mg"
           }
         ]
       }
@@ -592,35 +517,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "15g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "5g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "5g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "28g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "16g",
-          "cholesterol": "60mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "16g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "60mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "17g"
+        "amount": "17g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin K",
-            "amount": "500mcg"
+            "sub_nut": "Vitamin K", 
+            "value": "500mcg"      
           },
           {
-            "name": "Calcium",
-            "amount": "300mg"
+            "sub_nut": "Calcium", 
+            "value": "300mg"       
           }
         ]
       }
@@ -663,35 +604,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "45g",
-        "details": {
-          "sugar": "10g",
-          "fiber": "7g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "10g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "7g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "18g",
-        "details": {
-          "trans_fat": "0.4g",
-          "saturated_fat": "3g",
-          "cholesterol": "5mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.4g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "3g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "5mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "9g"
+        "amount": "9g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin B6",
-            "amount": "0.3mg"
+            "sub_nut": "Vitamin B6", 
+            "value": "0.3mg"         
           },
           {
-            "name": "Potassium",
-            "amount": "300mg"
+            "sub_nut": "Potassium", 
+            "value": "300mg"       
           }
         ]
       }
@@ -733,35 +690,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "30g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "3g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "3g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "20g",
-        "details": {
-          "trans_fat": "0.2g",
-          "saturated_fat": "4g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.2g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "4g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "5g"
+        "amount": "5g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin A",
-            "amount": "500 IU"
+            "sub_nut": "Vitamin A",
+            "value": "500 IU"
           },
           {
-            "name": "Vitamin K",
-            "amount": "15mcg"
+            "sub_nut": "Vitamin K",
+            "value": "15mcg"
           }
         ]
       }
@@ -805,35 +778,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "65g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "7g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "7g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "15g",
-        "details": {
-          "trans_fat": "0g",
-          "saturated_fat": "3g",
-          "cholesterol": "5mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "3g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "5mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "10g"
+        "amount": "10g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Niacin (B3)",
-            "amount": "2mg"
+            "sub_nut": "Niacin (B3)",
+            "value": "2mg"
           },
           {
-            "name": "Potassium",
-            "amount": "350mg"
+            "sub_nut": "Potassium",
+            "value": "350mg"
           }
         ]
       }
@@ -872,110 +861,142 @@
       {
         "nutrient": "carbohydrates",
         "amount": "30g",
-        "details": {
-          "sugar": "7g",
-          "fiber": "5g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "7g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "5g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "15g",
-        "details": {
-          "trans_fat": "0.3g",
-          "saturated_fat": "4g",
-          "cholesterol": "10mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.3g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "4g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "10mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "10g"
+        "amount": "10g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Calcium",
-            "amount": "150mg"
+            "sub_nut": "Calcium",
+            "value": "150mg"
           },
           {
-            "name": "Vitamin D",
-            "amount": "50 IU"
+            "sub_nut": "Vitamin D",
+            "value": "50 IU"
           }
         ]
       }
     ]
   },
   {
-    "name": "Kheer",
-    "price": [
-      {
-        "size": "Half",
-        "amount": 90
-      },
-      {
-        "size": "Full",
-        "amount": 160
-      }
-    ],
-    "featured": false,
-    "special_menu": false,
-    "ratings": 4.8,
-    "reviews": 170,
-    "category": "dessert",
-    "description": "A traditional Indian rice pudding made by boiling rice with milk and sugar, and flavored with cardamom, saffron, and nuts.",
-    "images": [
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101787/2d52844b-bd2c-4d6b-8140-d985f8eb28fa.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101794/2b8d5f0c-eab2-4ae0-a078-b70191268ce1.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101806/ddb01b17-e387-49bc-b8e2-555f256aec74.png",
-      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101839/251b9571-3318-471b-9159-97519e76c6b6.png"
-    ],
-    "ingredients": [
-      "milk",
-      "rice",
-      "sugar",
-      "cardamom",
-      "saffron",
-      "almonds",
-      "cashew"
-    ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "40g",
-        "details": {
-          "sugar": "25g",
-          "fiber": "1g"
+  "name": "Kheer",
+  "price": [
+    {
+      "size": "Half",
+      "amount": 90
+    },
+    {
+      "size": "Full",
+      "amount": 160
+    }
+  ],
+  "featured": false,
+  "special_menu": false,
+  "ratings": 4.8,
+  "reviews": 170,
+  "category": "dessert",
+  "description": "A traditional Indian rice pudding made by boiling rice with milk and sugar, and flavored with cardamom, saffron, and nuts.",
+  "images": [
+    "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101787/2d52844b-bd2c-4d6b-8140-d985f8eb28fa.png",
+    "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101794/2b8d5f0c-eab2-4ae0-a078-b70191268ce1.png",
+    "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101806/ddb01b17-e387-49bc-b8e2-555f256aec74.png",
+    "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756101839/251b9571-3318-471b-9159-97519e76c6b6.png"
+  ],
+  "ingredients": [
+    "milk",
+    "rice",
+    "sugar",
+    "cardamom",
+    "saffron",
+    "almonds",
+    "cashew"
+  ],
+  "food_info": [
+    {
+      "nutrient": "carbohydrates",
+      "amount": "40g",
+      "details": [
+        {
+          "sub_nut": "sugar",
+          "value": "25g"
+        },
+        {
+          "sub_nut": "fiber",
+          "value": "1g"
         }
-      },
-      {
-        "nutrient": "fats",
-        "amount": "12g",
-        "details": {
-          "trans_fat": "0g",
-          "saturated_fat": "7g",
-          "cholesterol": "25mg"
+      ]
+    },
+    {
+      "nutrient": "fats",
+      "amount": "12g",
+      "details": [
+        {
+          "sub_nut": "trans_fat",
+          "value": "0g"
+        },
+        {
+          "sub_nut": "saturated_fat",
+          "value": "7g"
+        },
+        {
+          "sub_nut": "cholesterol",
+          "value": "25mg"
         }
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "8g"
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "name": "Calcium",
-            "amount": "200mg"
-          },
-          {
-            "name": "Vitamin D",
-            "amount": "60 IU"
-          }
-        ]
-      }
-    ]
+      ]
+    },
+    {
+      "nutrient": "proteins",
+      "amount": "8g",
+      "details": []
+    },
+    {
+      "nutrient": "vitamins",
+      "amount": "N/A",
+      "details": [
+        {
+          "sub_nut": "Calcium",
+          "value": "200mg"     
+        },
+        {
+          "sub_nut": "Vitamin D",
+          "value": "60 IU"       
+        }
+      ]
+    }
+  ]
   },
   {
     "name": "Veg Grilled Sandwich",
@@ -1014,35 +1035,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "30g",
-        "details": {
-          "sugar": "3g",
-          "fiber": "4g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "3g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "4g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "10g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "3g",
-          "cholesterol": "5mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "3g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "5mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "6g"
+        "amount": "6g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin C",
-            "amount": "12mg"
+            "sub_nut": "Vitamin C",
+            "value": "12mg"
           },
           {
-            "name": "Iron",
-            "amount": "2mg"
+            "sub_nut": "Iron",
+            "value": "2mg"
           }
         ]
       }
@@ -1081,35 +1118,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "70g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "15g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "15g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "8g",
-        "details": {
-          "trans_fat": "0g",
-          "saturated_fat": "1g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "1g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "15g"
+        "amount": "15g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Iron",
-            "amount": "5mg"
+            "sub_nut": "Iron",
+            "value": "5mg"
           },
           {
-            "name": "Folate",
-            "amount": "100mcg"
+            "sub_nut": "Folate",
+            "value": "100mcg"
           }
         ]
       }
@@ -1150,35 +1203,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "45g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "3g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "3g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "18g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "8g",
-          "cholesterol": "35mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "8g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "35mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "15g"
+        "amount": "15g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Calcium",
-            "amount": "250mg"
+            "sub_nut": "Calcium",
+            "value": "250mg"
           },
           {
-            "name": "Vitamin A",
-            "amount": "500 IU"
+            "sub_nut": "Vitamin A",
+            "value": "500 IU"
           }
         ]
       }
@@ -1217,35 +1286,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "18g",
-        "details": {
-          "sugar": "6g",
-          "fiber": "4g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "6g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "4g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "25g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "15g",
-          "cholesterol": "55mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "15g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "55mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "16g"
+        "amount": "16g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin C",
-            "amount": "30mg"
+            "sub_nut": "Vitamin C",
+            "value": "30mg"
           },
           {
-            "name": "Calcium",
-            "amount": "200mg"
+            "sub_nut": "Calcium",
+            "value": "200mg"
           }
         ]
       }
@@ -1289,35 +1374,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "30g",
-        "details": {
-          "sugar": "8g",
-          "fiber": "5g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "8g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "5g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "15g",
-        "details": {
-          "trans_fat": "0.2g",
-          "saturated_fat": "2g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.2g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "2g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "6g"
+        "amount": "6g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin C",
-            "amount": "25mg"
+            "sub_nut": "Vitamin C",
+            "value": "25mg"
           },
           {
-            "name": "Vitamin K",
-            "amount": "10mcg"
+            "sub_nut": "Vitamin K",
+            "value": "10mcg"
           }
         ]
       }
@@ -1355,35 +1456,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "35g",
-        "details": {
-          "sugar": "3g",
-          "fiber": "3g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "3g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "3g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "15g",
-        "details": {
-          "trans_fat": "0.3g",
-          "saturated_fat": "2g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.3g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "2g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "7g"
+        "amount": "7g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin B6",
-            "amount": "0.2mg"
+            "sub_nut": "Vitamin B6",
+            "value": "0.2mg"
           },
           {
-            "name": "Potassium",
-            "amount": "250mg"
+            "sub_nut": "Potassium",
+            "value": "250mg"
           }
         ]
       }
@@ -1425,35 +1542,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "50g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "6g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "6g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "15g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "5g",
-          "cholesterol": "10mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "10mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "10g"
+        "amount": "10g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Calcium",
-            "amount": "150mg"
+            "sub_nut": "Calcium",
+            "value": "150mg"
           },
           {
-            "name": "Potassium",
-            "amount": "300mg"
+            "sub_nut": "Potassium",
+            "value": "300mg"
           }
         ]
       }
@@ -1496,35 +1629,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "40g",
-        "details": {
-          "sugar": "8g",
-          "fiber": "5g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "8g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "5g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "10g",
-        "details": {
-          "trans_fat": "0.2g",
-          "saturated_fat": "1g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.2g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "1g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "6g"
+        "amount": "6g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin C",
-            "amount": "10mg"
+            "sub_nut": "Vitamin C",
+            "value": "10mg"
           },
           {
-            "name": "Iron",
-            "amount": "1.5mg"
+            "sub_nut": "Iron",
+            "value": "1.5mg"
           }
         ]
       }
@@ -1563,35 +1712,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "25g",
-        "details": {
-          "sugar": "7g",
-          "fiber": "5g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "7g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "5g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "20g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "12g",
-          "cholesterol": "45mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "12g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "45mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "14g"
+        "amount": "14g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin A",
-            "amount": "300 IU"
+            "sub_nut": "Vitamin A",
+            "value": "300 IU"
           },
           {
-            "name": "Calcium",
-            "amount": "180mg"
+            "sub_nut": "Calcium",
+            "value": "180mg"
           }
         ]
       }
@@ -1635,35 +1800,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "55g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "3g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "3g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "12g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "2g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "2g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "7g"
+        "amount": "7g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin C",
-            "amount": "15mg"
+            "sub_nut": "Vitamin C",
+            "value": "15mg"
           },
           {
-            "name": "Niacin (B3)",
-            "amount": "1.5mg"
+            "sub_nut": "Niacin (B3)",
+            "value": "1.5mg"
           }
         ]
       }
@@ -1706,35 +1887,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "50g",
-        "details": {
-          "sugar": "4g",
-          "fiber": "3g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "4g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "3g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "10g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "2g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "2g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "8g"
+        "amount": "8g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin C",
-            "amount": "10mg"
+            "sub_nut": "Vitamin C",
+            "value": "10mg"
           },
           {
-            "name": "Iron",
-            "amount": "1mg"
+            "sub_nut": "Iron",
+            "value": "1mg"
           }
         ]
       }
@@ -1773,35 +1970,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "30g",
-        "details": {
-          "sugar": "10g",
-          "fiber": "3g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "10g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "3g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "35g",
-        "details": {
-          "trans_fat": "0.2g",
-          "saturated_fat": "20g",
-          "cholesterol": "70mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.2g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "20g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "70mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "15g"
+        "amount": "15g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin A",
-            "amount": "450 IU"
+            "sub_nut": "Vitamin A",
+            "value": "450 IU"
           },
           {
-            "name": "Calcium",
-            "amount": "220mg"
+            "sub_nut": "Calcium",
+            "value": "220mg"
           }
         ]
       }
@@ -1839,35 +2052,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "35g",
-        "details": {
-          "sugar": "10g",
-          "fiber": "6g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "10g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "6g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "10g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "3g",
-          "cholesterol": "10mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "3g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "10mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "12g"
+        "amount": "12g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Calcium",
-            "amount": "200mg"
+            "sub_nut": "Calcium",
+            "value": "200mg"
           },
           {
-            "name": "Folate",
-            "amount": "50mcg"
+            "sub_nut": "Folate",
+            "value": "50mcg"
           }
         ]
       }
@@ -1910,35 +2139,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "40g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "5g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "5g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "25g",
-        "details": {
-          "trans_fat": "0.3g",
-          "saturated_fat": "8g",
-          "cholesterol": "20mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.3g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "8g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "20mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "12g"
+        "amount": "12g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin A",
-            "amount": "350 IU"
+            "sub_nut": "Vitamin A",
+            "value": "350 IU"
           },
           {
-            "name": "Iron",
-            "amount": "3mg"
+            "sub_nut": "Iron",
+            "value": "3mg"
           }
         ]
       }
@@ -1977,35 +2222,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "15g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "5g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "5g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "20g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "10g",
-          "cholesterol": "40mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "10g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "40mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "20g"
+        "amount": "20g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Calcium",
-            "amount": "250mg"
+            "sub_nut": "Calcium",
+            "value": "250mg"
           },
           {
-            "name": "Vitamin C",
-            "amount": "20mg"
+            "sub_nut": "Vitamin C",
+            "value": "20mg"
           }
         ]
       }
@@ -2048,35 +2309,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "40g",
-        "details": {
-          "sugar": "3g",
-          "fiber": "8g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "3g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "8g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "5g",
-        "details": {
-          "trans_fat": "0g",
-          "saturated_fat": "1g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "1g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "10g"
+        "amount": "10g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Iron",
-            "amount": "2.5mg"
+            "sub_nut": "Iron",
+            "value": "2.5mg"
           },
           {
-            "name": "Folate",
-            "amount": "40mcg"
+            "sub_nut": "Folate",
+            "value": "40mcg"
           }
         ]
       }
@@ -2123,35 +2400,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "35g",
-        "details": {
-          "sugar": "30g",
-          "fiber": "0g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "30g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "0g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "15g",
-        "details": {
-          "trans_fat": "0.3g",
-          "saturated_fat": "8g",
-          "cholesterol": "30mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.3g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "8g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "30mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "5g"
+        "amount": "5g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Calcium",
-            "amount": "100mg"
+            "sub_nut": "Calcium",
+            "value": "100mg"
           },
           {
-            "name": "Vitamin A",
-            "amount": "150 IU"
+            "sub_nut": "Vitamin A",
+            "value": "150 IU"
           }
         ]
       }
@@ -2195,35 +2488,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "55g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "4g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "4g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "12g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "2g",
-          "cholesterol": "0mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0.1g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "2g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "0mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "9g"
+        "amount": "9g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Vitamin C",
-            "amount": "12mg"
+            "sub_nut": "Vitamin C",
+            "value": "12mg"
           },
           {
-            "name": "Niacin (B3)",
-            "amount": "2mg"
+            "sub_nut": "Niacin (B3)",
+            "value": "2mg"
           }
         ]
       }
@@ -2270,35 +2579,51 @@
       {
         "nutrient": "carbohydrates",
         "amount": "30g",
-        "details": {
-          "sugar": "25g",
-          "fiber": "0g"
-        }
+        "details": [
+          {
+            "sub_nut": "sugar",
+            "value": "25g"
+          },
+          {
+            "sub_nut": "fiber",
+            "value": "0g"
+          }
+        ]
       },
       {
         "nutrient": "fats",
         "amount": "10g",
-        "details": {
-          "trans_fat": "0g",
-          "saturated_fat": "5g",
-          "cholesterol": "20mg"
-        }
+        "details": [
+          {
+            "sub_nut": "trans_fat",
+            "value": "0g"
+          },
+          {
+            "sub_nut": "saturated_fat",
+            "value": "5g"
+          },
+          {
+            "sub_nut": "cholesterol",
+            "value": "20mg"
+          }
+        ]
       },
       {
         "nutrient": "proteins",
-        "amount": "10g"
+        "amount": "10g",
+        "details": []
       },
       {
         "nutrient": "vitamins",
         "amount": "N/A",
         "details": [
           {
-            "name": "Calcium",
-            "amount": "180mg"
+            "sub_nut": "Calcium",
+            "value": "180mg"
           },
           {
-            "name": "Vitamin B12",
-            "amount": "0.2mcg"
+            "sub_nut": "Vitamin B12",
+            "value": "0.2mcg"
           }
         ]
       }

@@ -44,7 +44,14 @@ const productSchema = new mongoose.Schema(
           type:String,
         },
         details:{
-          type:mongoose.Schema.Types.Mixed
+          type:[{
+            sub_nut:{
+              type:String,
+            },
+            value:{
+              type:String,
+            }
+          }]
         }
       }],
     },
