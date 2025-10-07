@@ -567,6 +567,145 @@
       }
     ]
   },
+   {
+    "name": "Dal Makhani",
+    "price": [
+      {
+        "size": "Full",
+        "amount": 220
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.8,
+    "reviews": 290,
+    "category": "main course",
+    "description": "A slow-cooked medley of black lentils and kidney beans, finished with butter and cream. A rich, buttery Indian delicacy.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098396/fefca099-cf43-4be9-bafe-745efc72ed71.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096103/980e8798-fd0b-4d5d-bc29-66f6ec29b94f.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098389/79ea87d7-1a23-4563-98ea-41d2b186f443.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756098896/9550b7b0-b2e4-4247-9336-a5280fbdd7f4.png"
+    ],
+    "ingredients": [
+      "black lentils",
+      "kidney beans",
+      "tomato",
+      "cream",
+      "butter",
+      "ginger",
+      "garlic",
+      "spices"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "35g",
+        "details": {
+          "sugar": "5g",
+          "fiber": "12g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "25g",
+        "details": {
+          "trans_fat": "0.1g",
+          "saturated_fat": "15g",
+          "cholesterol": "50mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "18g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Iron",
+            "amount": "4mg"
+          },
+          {
+            "name": "Folate",
+            "amount": "80mcg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Veg Burger",
+    "price": [
+      {
+        "size": "M",
+        "amount": 150
+      },
+      {
+        "size": "L",
+        "amount": 200
+      }
+    ],
+    "featured": false,
+    "special_menu": false,
+    "ratings": 4.6,
+    "reviews": 380,
+    "category": "snacks",
+    "description": "A crispy and flavorful mixed vegetable patty served on a toasted bun with lettuce, tomato, cheese, and a special house sauce. Served with fries.",
+    "images": [
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099072/68ff8af0-e334-402c-aa68-cdbbc1beed12.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099027/053e3906-5deb-4d51-bf5e-861e19af6408.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756096218/cabe171f-0e97-43c6-862e-d83207215a63.png",
+      "https://res.cloudinary.com/dwwurx8fo/image/upload/v1756099149/773e8512-6e72-4029-9941-0d77b771fdf4.png"
+    ],
+    "ingredients": [
+      "bun",
+      "mixed vegetables",
+      "potato",
+      "bread crumbs",
+      "mayonnaise",
+      "lettuce",
+      "cheese"
+    ],
+    "food_info": [
+      {
+        "nutrient": "carbohydrates",
+        "amount": "40g",
+        "details": {
+          "sugar": "6g",
+          "fiber": "3g"
+        }
+      },
+      {
+        "nutrient": "fats",
+        "amount": "20g",
+        "details": {
+          "trans_fat": "0.2g",
+          "saturated_fat": "5g",
+          "cholesterol": "10mg"
+        }
+      },
+      {
+        "nutrient": "proteins",
+        "amount": "10g"
+      },
+      {
+        "nutrient": "vitamins",
+        "amount": "N/A",
+        "details": [
+          {
+            "name": "Vitamin C",
+            "amount": "5mg"
+          },
+          {
+            "name": "Calcium",
+            "amount": "100mg"
+          }
+        ]
+      }
+    ]
+  },
   {
     "name": "Aloo Tikki Chaat",
     "price": [
