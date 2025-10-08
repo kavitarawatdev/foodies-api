@@ -35,23 +35,19 @@ const productSchema = new mongoose.Schema(
         message: "Price must contain at least one unique size and amount combination."
       }
     },
-    food_info: {
+    serving_size:{
+      type:String
+    },
+    macronutrients: {
       type:[{
-        nutrient:{
+        name:{
           type:String,
         },
-        amount:{
-          type:String,
+        total_amount:{
+          type:Number,
         },
-        details:{
-          type:[{
-            sub_nut:{
-              type:String,
-            },
-            value:{
-              type:String,
-            }
-          }]
+        unit:{
+          type:String,
         }
       }],
     },

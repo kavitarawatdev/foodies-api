@@ -29,58 +29,23 @@
       "ginger",
       "spices"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "20g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "8g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "2g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "30g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "18g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "65mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "15g",
-        "details": [] 
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin A", 
-            "value": "400 IU"      
-          },
-          {
-            "sub_nut": "Vitamin C", 
-            "value": "3mg"         
-          }
-        ]
-      }
+    "serving_size": "1 cup (approx. 250g)",
+     "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 35,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 25,
+      "unit": "g"
+    }
     ]
   },
   {
@@ -116,59 +81,24 @@
       "curry leaves",
       "oil"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "45g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "1g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "5g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "10g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "2g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "8g",
-        "details": [] 
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin B12", 
-            "value": "0.1mcg"        
-          },
-          {
-            "sub_nut": "Folate", 
-            "value": "15mcg"     
-          }
-        ]
-      }
-    ]
+    "serving_size": "1 large dosa (approx. 200g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 18,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 40,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Veg Momos",
@@ -203,59 +133,24 @@
       "soy sauce",
       "chili"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "35g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "3g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "4g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "5g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "1g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "7g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin C",
-            "value": "10mg"
-          },
-          {
-            "sub_nut": "Vitamin K",
-            "value": "5mcg"
-          }
-        ]
-      }
-    ]
+    "serving_size": "5-6 pieces (approx. 150g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 8,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 35,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Chole Bhature",
@@ -286,59 +181,24 @@
       "spices",
       "oil"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "60g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "10g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "35g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.5g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "6g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "12g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Folate",
-            "value": "60mcg"
-          },
-          {
-            "sub_nut": "Iron",
-            "value": "3mg"
-          }
-        ]
-      }
-    ]
+    "serving_size": "1 serving (2 bhature with chole, approx. 400g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 25,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 40,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 80,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Samosa Chaat",
@@ -373,43 +233,24 @@
       "sev",
       "spices"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "50g",
-        "details": {
-          "sugar": "10g",
-          "fiber": "8g"
-        }
-      },
-      {
-        "nutrient": "fats",
-        "amount": "25g",
-        "details": {
-          "trans_fat": "0.5g",
-          "saturated_fat": "4g",
-          "cholesterol": "5mg"
-        }
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "10g"
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "name": "Vitamin C",
-            "amount": "8mg"
-          },
-          {
-            "name": "Potassium",
-            "amount": "250mg"
-          }
-        ]
-      }
-    ]
+    "serving_size": "1 plate (approx. 300g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 25,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 50,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Pav Bhaji",
@@ -441,43 +282,24 @@
       "pav bhaji masala",
       "bun"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "45g",
-        "details": {
-          "sugar": "4g",
-          "fiber": "6g"
-        }
-      },
-      {
-        "nutrient": "fats",
-        "amount": "20g",
-        "details": {
-          "trans_fat": "0.3g",
-          "saturated_fat": "10g",
-          "cholesterol": "30mg"
-        }
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "8g"
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "name": "Vitamin C",
-            "amount": "15mg"
-          },
-          {
-            "name": "Vitamin K",
-            "amount": "10mcg"
-          }
-        ]
-      }
-    ]
+    "serving_size": "1 serving (2 pavs with bhaji, approx. 400g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 18,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 35,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 60,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Palak Paneer",
@@ -513,59 +335,25 @@
       "garlic",
       "spices"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "15g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "5g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "28g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "16g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "60mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "17g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin K", 
-            "value": "500mcg"      
-          },
-          {
-            "sub_nut": "Calcium", 
-            "value": "300mg"       
-          }
-        ]
-      }
-    ]
+      "serving_size": "1 serving (approx. 250g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 25,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 28,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 15,
+      "unit": "g"
+    }
+  ]
+
   },
    {
     "name": "Dal Makhani",
@@ -597,43 +385,24 @@
       "garlic",
       "spices"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "35g",
-        "details": {
-          "sugar": "5g",
-          "fiber": "12g"
-        }
-      },
-      {
-        "nutrient": "fats",
-        "amount": "25g",
-        "details": {
-          "trans_fat": "0.1g",
-          "saturated_fat": "15g",
-          "cholesterol": "50mg"
-        }
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "18g"
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "name": "Iron",
-            "amount": "4mg"
-          },
-          {
-            "name": "Folate",
-            "amount": "80mcg"
-          }
-        ]
-      }
-    ]
+     "serving_size": "1 serving (approx. 250g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 25,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 40,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Veg Burger",
@@ -668,43 +437,24 @@
       "lettuce",
       "cheese"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "40g",
-        "details": {
-          "sugar": "6g",
-          "fiber": "3g"
-        }
-      },
-      {
-        "nutrient": "fats",
-        "amount": "20g",
-        "details": {
-          "trans_fat": "0.2g",
-          "saturated_fat": "5g",
-          "cholesterol": "10mg"
-        }
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "10g"
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "name": "Vitamin C",
-            "amount": "5mg"
-          },
-          {
-            "name": "Calcium",
-            "amount": "100mg"
-          }
-        ]
-      }
-    ]
+     "serving_size": "1 burger (approx. 200g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 45,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Aloo Tikki Chaat",
@@ -739,59 +489,24 @@
       "spices",
       "oil"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "45g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "10g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "7g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "18g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.4g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "3g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "5mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "9g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin B6", 
-            "value": "0.3mg"         
-          },
-          {
-            "sub_nut": "Potassium", 
-            "value": "300mg"       
-          }
-        ]
-      }
-    ]
+      "serving_size": "1 plate (approx. 250g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 8,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 40,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Veg Spring Roll",
@@ -825,59 +540,24 @@
       "soy sauce",
       "oil"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "30g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "3g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "20g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.2g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "4g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "5g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin A",
-            "value": "500 IU"
-          },
-          {
-            "sub_nut": "Vitamin K",
-            "value": "15mcg"
-          }
-        ]
-      }
-    ]
+     "serving_size": "2 medium rolls (approx. 150g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 6,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 18,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 35,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Vegetable Biryani",
@@ -913,59 +593,24 @@
       "saffron",
       "spices"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "65g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "7g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "15g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "3g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "5mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "10g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Niacin (B3)",
-            "value": "2mg"
-          },
-          {
-            "sub_nut": "Potassium",
-            "value": "350mg"
-          }
-        ]
-      }
-    ]
+      "serving_size": "1 serving (approx. 350g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 70,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Kadi Pakoda",
@@ -996,59 +641,24 @@
       "mustard seeds",
       "oil"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "30g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "7g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "5g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "15g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.3g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "4g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "10mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "10g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Calcium",
-            "value": "150mg"
-          },
-          {
-            "sub_nut": "Vitamin D",
-            "value": "50 IU"
-          }
-        ]
-      }
-    ]
+      "serving_size": "1 serving (approx. 300g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 25,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 40,
+      "unit": "g"
+    }
+  ]
   },
   {
   "name": "Kheer",
@@ -1083,57 +693,22 @@
     "almonds",
     "cashew"
   ],
-  "food_info": [
+    "serving_size": "1 bowl (approx. 150g)",
+  "macronutrients": [
     {
-      "nutrient": "carbohydrates",
-      "amount": "40g",
-      "details": [
-        {
-          "sub_nut": "sugar",
-          "value": "25g"
-        },
-        {
-          "sub_nut": "fiber",
-          "value": "1g"
-        }
-      ]
+      "name": "Protein",
+      "total_amount": 6,
+      "unit": "g"
     },
     {
-      "nutrient": "fats",
-      "amount": "12g",
-      "details": [
-        {
-          "sub_nut": "trans_fat",
-          "value": "0g"
-        },
-        {
-          "sub_nut": "saturated_fat",
-          "value": "7g"
-        },
-        {
-          "sub_nut": "cholesterol",
-          "value": "25mg"
-        }
-      ]
+      "name": "Total Fat",
+      "total_amount": 12,
+      "unit": "g"
     },
     {
-      "nutrient": "proteins",
-      "amount": "8g",
-      "details": []
-    },
-    {
-      "nutrient": "vitamins",
-      "amount": "N/A",
-      "details": [
-        {
-          "sub_nut": "Calcium",
-          "value": "200mg"     
-        },
-        {
-          "sub_nut": "Vitamin D",
-          "value": "60 IU"       
-        }
-      ]
+      "name": "Carbohydrates",
+      "total_amount": 50,
+      "unit": "g"
     }
   ]
   },
@@ -1170,59 +745,24 @@
       "butter",
       "potato"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "30g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "3g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "4g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "10g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "3g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "5mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "6g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin C",
-            "value": "12mg"
-          },
-          {
-            "sub_nut": "Iron",
-            "value": "2mg"
-          }
-        ]
-      }
-    ]
+      "serving_size": "1 sandwich (approx. 180g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 35,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Rajma Chawal",
@@ -1253,59 +793,24 @@
       "garlic",
       "spices"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "70g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "15g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "8g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "1g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "15g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Iron",
-            "value": "5mg"
-          },
-          {
-            "sub_nut": "Folate",
-            "value": "100mcg"
-          }
-        ]
-      }
-    ]
+      "serving_size": "1 serving (approx. 400g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 70,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Margarita Pizza",
@@ -1338,59 +843,24 @@
       "fresh basil",
       "olive oil"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "45g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "3g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "18g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "8g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "35mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "15g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Calcium",
-            "value": "250mg"
-          },
-          {
-            "sub_nut": "Vitamin A",
-            "value": "500 IU"
-          }
-        ]
-      }
-    ]
+      "serving_size": "2 slices (approx. 200g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 18,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 22,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 50,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Kadhai Paneer",
@@ -1421,59 +891,25 @@
       "ginger",
       "garlic"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "18g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "6g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "4g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "25g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "15g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "55mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "16g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin C",
-            "value": "30mg"
-          },
-          {
-            "sub_nut": "Calcium",
-            "value": "200mg"
-          }
-        ]
-      }
-    ]
+      "serving_size": "1 serving (approx. 250g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 25,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 18,
+      "unit": "g"
+    }
+  ]
+
   },
   {
     "name": "Gobi Manchurian Dry",
@@ -1509,59 +945,24 @@
       "onion",
       "oil"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "30g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "8g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "5g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "15g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.2g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "2g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "6g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin C",
-            "value": "25mg"
-          },
-          {
-            "sub_nut": "Vitamin K",
-            "value": "10mcg"
-          }
-        ]
-      }
-    ]
+     "serving_size": "1 serving (approx. 200g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 8,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 35,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Vada Pav",
@@ -1591,70 +992,31 @@
       "oil",
       "spices"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "35g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "3g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "3g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "15g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.3g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "2g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "7g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin B6",
-            "value": "0.2mg"
-          },
-          {
-            "sub_nut": "Potassium",
-            "value": "250mg"
-          }
-        ]
-      }
-    ]
+      "serving_size": "1 vada pav (approx. 150g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 8,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 35,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Aloo Paratha with Curd",
     "price": [
       {
-        "size": "Single",
+        "size": "2 Parathas",
         "amount": 110
-      },
-      {
-        "size": "Double",
-        "amount": 200
       }
     ],
     "featured": false,
@@ -1677,57 +1039,22 @@
       "spices",
       "ghee"
     ],
-    "food_info": [
+     "serving_size": "1 serving (2 parathas + 100g curd, approx. 350g)",
+    "macronutrients": [
       {
-        "nutrient": "carbohydrates",
-        "amount": "50g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "6g"
-          }
-        ]
+        "name": "Protein",
+        "total_amount": 14,
+        "unit": "g"
       },
       {
-        "nutrient": "fats",
-        "amount": "15g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "10mg"
-          }
-        ]
+        "name": "Total Fat",
+        "total_amount": 18,
+        "unit": "g"
       },
       {
-        "nutrient": "proteins",
-        "amount": "10g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Calcium",
-            "value": "150mg"
-          },
-          {
-            "sub_nut": "Potassium",
-            "value": "300mg"
-          }
-        ]
+        "name": "Carbohydrates",
+        "total_amount": 55,
+        "unit": "g"
       }
     ]
   },
@@ -1764,57 +1091,22 @@
       "spices",
       "jaggery"
     ],
-    "food_info": [
+     "serving_size": "1 plate (6 puris, approx. 150g)",
+    "macronutrients": [
       {
-        "nutrient": "carbohydrates",
-        "amount": "40g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "8g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "5g"
-          }
-        ]
+        "name": "Protein",
+        "total_amount": 5,
+        "unit": "g"
       },
       {
-        "nutrient": "fats",
-        "amount": "10g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.2g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "1g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
+        "name": "Total Fat",
+        "total_amount": 10,
+        "unit": "g"
       },
       {
-        "nutrient": "proteins",
-        "amount": "6g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin C",
-            "value": "10mg"
-          },
-          {
-            "sub_nut": "Iron",
-            "value": "1.5mg"
-          }
-        ]
+        "name": "Carbohydrates",
+        "total_amount": 40,
+        "unit": "g"
       }
     ]
   },
@@ -1847,59 +1139,25 @@
       "cream",
       "spices"
     ],
-    "food_info": [
+        "serving_size": "1 serving (approx. 300g)",
+    "macronutrients": [
       {
-        "nutrient": "carbohydrates",
-        "amount": "25g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "7g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "5g"
-          }
-        ]
+        "name": "Protein",
+        "total_amount": 18,
+        "unit": "g"
       },
       {
-        "nutrient": "fats",
-        "amount": "20g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "12g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "45mg"
-          }
-        ]
+        "name": "Total Fat",
+        "total_amount": 22,
+        "unit": "g"
       },
       {
-        "nutrient": "proteins",
-        "amount": "14g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin A",
-            "value": "300 IU"
-          },
-          {
-            "sub_nut": "Calcium",
-            "value": "180mg"
-          }
-        ]
+        "name": "Carbohydrates",
+        "total_amount": 25,
+        "unit": "g"
       }
     ]
+
   },
   {
     "name": "Veg Fried Rice",
@@ -1935,59 +1193,25 @@
       "ginger",
       "garlic"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "55g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "3g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "12g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "2g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "7g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin C",
-            "value": "15mg"
-          },
-          {
-            "sub_nut": "Niacin (B3)",
-            "value": "1.5mg"
-          }
-        ]
-      }
-    ]
+      "serving_size": "1 serving (approx. 350g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 60,
+      "unit": "g"
+    }
+  ]
+
   },
   {
     "name": "Veg Noodles",
@@ -2022,59 +1246,24 @@
       "soy sauce",
       "oil"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "50g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "4g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "3g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "10g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "2g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "8g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin C",
-            "value": "10mg"
-          },
-          {
-            "sub_nut": "Iron",
-            "value": "1mg"
-          }
-        ]
-      }
-    ]
+      "serving_size": "1 serving (approx. 300g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 14,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 50,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Malai Kofta",
@@ -2105,59 +1294,24 @@
       "ginger",
       "spices"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "30g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "10g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "3g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "35g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.2g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "20g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "70mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "15g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin A",
-            "value": "450 IU"
-          },
-          {
-            "sub_nut": "Calcium",
-            "value": "220mg"
-          }
-        ]
-      }
-    ]
+     "serving_size": "1 serving (approx. 300g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 30,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 35,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Dahi Bhalla",
@@ -2187,59 +1341,24 @@
       "spices",
       "oil"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "35g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "10g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "6g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "10g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "3g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "10mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "12g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Calcium",
-            "value": "200mg"
-          },
-          {
-            "sub_nut": "Folate",
-            "value": "50mcg"
-          }
-        ]
-      }
-    ]
+     "serving_size": "1 plate (2-3 pieces, approx. 200g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 18,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 35,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Veg Kathi Roll",
@@ -2274,59 +1393,24 @@
       "tomato sauce",
       "spices"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "40g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "5g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "25g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.3g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "8g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "20mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "12g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin A",
-            "value": "350 IU"
-          },
-          {
-            "sub_nut": "Iron",
-            "value": "3mg"
-          }
-        ]
-      }
-    ]
+     "serving_size": "1 roll (approx. 200g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 22,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 45,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Veg Tandoori Platter",
@@ -2357,59 +1441,24 @@
       "ginger",
       "tandoori spices"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "15g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "5g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "20g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "10g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "40mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "20g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Calcium",
-            "value": "250mg"
-          },
-          {
-            "sub_nut": "Vitamin C",
-            "value": "20mg"
-          }
-        ]
-      }
-    ]
+     "serving_size": "1 platter (approx. 350g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 25,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 20,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 30,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Idli Sambar",
@@ -2443,60 +1492,24 @@
       "coconut",
       "mustard seeds",
       "tamarind"
-    ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "40g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "3g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "8g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "5g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "1g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "10g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Iron",
-            "value": "2.5mg"
-          },
-          {
-            "sub_nut": "Folate",
-            "value": "40mcg"
-          }
-        ]
-      }
-    ]
+    ],"serving_size": "2 medium idlis with sambar (approx. 250g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 8,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 40,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Gulab Jamun",
@@ -2535,59 +1548,24 @@
       "cardamom",
       "oil/ghee"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "35g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "30g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "0g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "15g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.3g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "8g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "30mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "5g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Calcium",
-            "value": "100mg"
-          },
-          {
-            "sub_nut": "Vitamin A",
-            "value": "150 IU"
-          }
-        ]
-      }
-    ]
+     "serving_size": "2 pieces (approx. 100g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 4,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 10,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 60,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Veg Hakka Noodles",
@@ -2623,59 +1601,24 @@
       "vinegar",
       "oil"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "55g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "4g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "12g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0.1g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "2g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "0mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "9g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Vitamin C",
-            "value": "12mg"
-          },
-          {
-            "sub_nut": "Niacin (B3)",
-            "value": "2mg"
-          }
-        ]
-      }
-    ]
+    "serving_size": "1 serving (approx. 300g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 12,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 55,
+      "unit": "g"
+    }
+  ]
   },
   {
     "name": "Rasmalai",
@@ -2714,58 +1657,23 @@
       "pistachio",
       "almonds"
     ],
-    "food_info": [
-      {
-        "nutrient": "carbohydrates",
-        "amount": "30g",
-        "details": [
-          {
-            "sub_nut": "sugar",
-            "value": "25g"
-          },
-          {
-            "sub_nut": "fiber",
-            "value": "0g"
-          }
-        ]
-      },
-      {
-        "nutrient": "fats",
-        "amount": "10g",
-        "details": [
-          {
-            "sub_nut": "trans_fat",
-            "value": "0g"
-          },
-          {
-            "sub_nut": "saturated_fat",
-            "value": "5g"
-          },
-          {
-            "sub_nut": "cholesterol",
-            "value": "20mg"
-          }
-        ]
-      },
-      {
-        "nutrient": "proteins",
-        "amount": "10g",
-        "details": []
-      },
-      {
-        "nutrient": "vitamins",
-        "amount": "N/A",
-        "details": [
-          {
-            "sub_nut": "Calcium",
-            "value": "180mg"
-          },
-          {
-            "sub_nut": "Vitamin B12",
-            "value": "0.2mcg"
-          }
-        ]
-      }
-    ]
+     "serving_size": "2 pieces (approx. 150g)",
+  "macronutrients": [
+    {
+      "name": "Protein",
+      "total_amount": 8,
+      "unit": "g"
+    },
+    {
+      "name": "Total Fat",
+      "total_amount": 15,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "total_amount": 45,
+      "unit": "g"
+    }
+  ]
   }
 ]
